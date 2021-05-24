@@ -71,4 +71,4 @@ for i in range(len(listOfCities)):
 driver.quit()
 
 df = pd.DataFrame(list(zip(listOfCities, places, latitudes, longitudes, obscuration, magnitude)), columns = ["City", "Place found", "Latitude", "Longitude", "Obscuration", "Magnitude"])
-df.to_csv("FILENAME.csv", sep = ";")
+df.to_csv("FILENAME.csv", sep = ";", index = False)
