@@ -1,0 +1,955 @@
+;City;Place found;Latitude;Longitude;Obscuration;Magnitude
+0;Aleksandrów Kujawski ;Aleksandrów Kujawski, powiat aleksandrowski, województwo kujawsko-pomorskie, Polska;52.8765;18.6936;12.0;0.222
+1;Aleksandrów Łódzki ;Aleksandrów Łódzki, gmina Aleksandrów Łódzki, powiat zgierski, województwo łódzkie, Polska;51.8197;19.3035;9.7;0.192
+2;Alwernia ;Alwernia, gmina Alwernia, powiat chrzanowski, województwo małopolskie, Polska;50.0690;19.5397;6.4;0.145
+3;Andrychów ;Andrychów, gmina Andrychów, powiat wadowicki, województwo małopolskie, 34-120, Polska;49.8556;19.3437;6.1;0.141
+4;Annopol ;Annopol, gmina Annopol, powiat kraśnicki, województwo lubelskie, 23-235, Polska;50.8852;21.8551;7.2;0.157
+5;Augustów ;Augustów, powiat augustowski, województwo podlaskie, 16-300, Polska;53.8437;22.9802;12.7;0.231
+6;Babimost ;Babimost, gmina Babimost, powiat zielonogórski, województwo lubuskie, 66-110, Polska;52.1653;15.8285;11.6;0.218
+7;Baborów ;Baborów, gmina Baborów, powiat głubczycki, województwo opolskie, 48-120, Polska;50.1564;17.9859;7.1;0.155
+8;Baranów Sandomierski ;Baranów Sandomierski, gmina Baranów Sandomierski, powiat tarnobrzeski, województwo podkarpackie, Polska;50.4995;21.5418;6.6;0.148
+9;Barcin ;Barcin, gmina Barcin, powiat żniński, województwo kujawsko-pomorskie, 88-190, Polska;52.8632;17.9472;12.2;0.225
+10;Barczewo ;Barczewo, gmina Barczewo, powiat olsztyński, województwo warmińsko-mazurskie, 11-010, Polska;53.8297;20.6911;13.3;0.239
+11;Bardo;Bardo, gmina Bardo, powiat ząbkowicki, województwo dolnośląskie, 57-256, Polska;50.5068;16.7402;8.1;0.171
+12;Barlinek ;Barlinek, gmina Barlinek, powiat myśliborski, województwo zachodniopomorskie, 74-320, Polska;52.9921;15.2166;13.6;0.242
+13;Bartoszyce ;Bartoszyce, powiat bartoszycki, województwo warmińsko-mazurskie, 11-200, Polska;54.2524;20.8144;14.1;0.249
+14;Barwice ;Barwice, gmina Barwice, powiat szczecinecki, województwo zachodniopomorskie, 78-460, Polska;53.7446;16.3549;14.6;0.255
+15;Bełchatów ;Bełchatów, powiat bełchatowski, województwo łódzkie, 97-400, Polska;51.3650;19.3692;8.8;0.18
+16;Bełżyce ;Bełżyce, gmina Bełżyce, powiat lubelski, województwo lubelskie, 24-200, Polska;51.1751;22.2750;7.6;0.163
+17;Będzin ;Będzin, powiat będziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3231;19.1322;7.0;0.154
+18;Biała;Biała, gmina Biała, powiat prudnicki, województwo opolskie, Polska;50.3854;17.6599;7.6;0.163
+19;Biała Piska ;Biała Piska, gmina Biała Piska, powiat piski, województwo warmińsko-mazurskie, 12-203, Polska;53.6114;22.0581;12.4;0.228
+20;Biała Podlaska ;Biała Podlaska, województwo lubelskie, Polska;52.0338;23.1194;9.0;0.183
+21;Biała Rawska ;Biała Rawska, gmina Biała Rawska, powiat rawski, województwo łódzkie, 96-230, Polska;51.8076;20.4721;9.3;0.187
+22;Białobrzegi ;Białobrzegi, gmina Zamość, powiat zamojski, województwo lubelskie, Polska;50.7729;23.1507;6.7;0.149
+23;Białogard ;Białogard, powiat białogardzki, województwo zachodniopomorskie, 78-200, Polska;54.0064;15.9871;15.3;0.263
+24;Biały Bór ;Biały Bór, gmina Biały Bór, powiat szczecinecki, województwo zachodniopomorskie, 78-425, Polska;53.8987;16.8377;14.8;0.257
+25;Białystok ;Białystok, województwo podlaskie, Polska;53.1324;23.1592;11.2;0.212
+26;Biecz ;Biecz, gmina Biecz, powiat gorlicki, województwo małopolskie, 38-340, Polska;49.7305;21.2494;5.4;0.129
+27;Bielawa ;Bielawa, powiat dzierżoniowski, województwo dolnośląskie, 58-260, Polska;50.6871;16.6161;8.5;0.176
+28;Bielsk Podlaski ;Bielsk Podlaski, powiat bielski, województwo podlaskie, 17-100, Polska;52.7688;23.1926;10.4;0.203
+29;Bielsko-Biała ;Bielsko-Biała, województwo śląskie, Polska;49.8221;19.0449;6.1;0.141
+30;Bieruń ;Bieruń, powiat bieruńsko-lędziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.0932;19.0918;6.6;0.148
+31;Bierutów ;Bierutów, gmina Bierutów, powiat oleśnicki, województwo dolnośląskie, 56-420, Polska;51.1253;17.5400;9.0;0.183
+32;Bieżuń ;Bieżuń, gmina Bieżuń, powiat żuromiński, województwo mazowieckie, Polska;52.9618;19.8900;11.7;0.219
+33;Biłgoraj ;Biłgoraj, powiat biłgorajski, województwo lubelskie, 23-400, Polska;50.5425;22.7209;6.4;0.145
+34;Biskupiec ;Biskupiec, gmina Biskupiec, powiat olsztyński, województwo warmińsko-mazurskie, 11-300, Polska;53.8688;20.9552;13.3;0.239
+35;Bisztynek ;Bisztynek, gmina Bisztynek, powiat bartoszycki, województwo warmińsko-mazurskie, Polska;54.0867;20.9088;13.8;0.245
+36;Blachownia ;Blachownia, gmina Blachownia, powiat częstochowski, województwo śląskie, 42-290, Polska;50.7820;18.9684;7.8;0.167
+37;Błaszki ;Błaszki, gmina Błaszki, powiat sieradzki, województwo łódzkie, Polska;51.6525;18.4329;9.6;0.192
+38;Błażowa ;Błażowa, gmina Błażowa, powiat rzeszowski, województwo podkarpackie, 36-030, Polska;49.8856;22.1008;5.4;0.129
+39;Błonie ;Błonie, gmina Błonie, powiat warszawski zachodni, województwo mazowieckie, Polska;52.1946;20.6170;10.0;0.197
+40;Bobolice ;Bobolice, gmina Bobolice, powiat koszaliński, województwo zachodniopomorskie, 76-020, Polska;53.9547;16.5885;15.0;0.259
+41;Bobowa ;Bobowa, gmina Bobowa, powiat gorlicki, województwo małopolskie, 38-350, Polska;49.7130;20.9576;5.4;0.129
+42;Bochnia ;Bochnia, powiat bocheński, województwo małopolskie, 32-700, Polska;49.9694;20.4305;6.0;0.139
+43;Bodzentyn ;Bodzentyn, gmina Bodzentyn, powiat kielecki, województwo świętokrzyskie, 26010, Polska;50.9410;20.9573;7.5;0.162
+44;Bogatynia ;Bogatynia, gmina Bogatynia, powiat zgorzelecki, województwo dolnośląskie, Polska;50.9077;14.9539;9.6;0.191
+45;Boguchwała ;Boguchwała, gmina Boguchwała, powiat rzeszowski, województwo podkarpackie, Polska;49.9807;21.9392;5.6;0.133
+46;Boguszów-Gorce ;Boguszów-Gorce, powiat wałbrzyski, województwo dolnośląskie, Polska;50.7553;16.1964;8.8;0.18
+47;Bojanowo ;Bojanowo, gmina Bojanowo, powiat rawicki, województwo wielkopolskie, Polska;51.7075;16.7481;10.4;0.202
+48;Bolesławiec ;Bolesławiec, powiat bolesławiecki, województwo dolnośląskie, Polska;51.2630;15.5651;10.0;0.197
+49;Bolków ;Bolków, gmina Bolków, powiat jaworski, województwo dolnośląskie, 59-420, Polska;50.9220;16.1007;9.1;0.185
+50;Borek Wielkopolski ;Borek Wielkopolski, gmina Borek Wielkopolski, powiat gostyński, województwo wielkopolskie, 63-810, Polska;51.9162;17.2426;10.6;0.204
+51;Borne Sulinowo ;Borne Sulinowo, gmina Borne Sulinowo, powiat szczecinecki, województwo zachodniopomorskie, 78-449, Polska;53.5813;16.5381;14.2;0.25
+52;Braniewo ;Braniewo, powiat braniewski, województwo warmińsko-mazurskie, Polska;54.3825;19.8276;14.7;0.256
+53;Brańsk ;Brańsk, powiat bielski, województwo podlaskie, Polska;52.7673;22.8309;10.5;0.204
+54;Brodnica ;Brodnica, powiat brodnicki, województwo kujawsko-pomorskie, 87-300, Polska;53.2581;19.3994;12.5;0.229
+55;Brok ;Brok, gmina Brok, powiat ostrowski, województwo mazowieckie, 07-307, Polska;52.6989;21.8602;10.6;0.205
+56;Brusy ;Brusy, gmina Brusy, powiat chojnicki, województwo pomorskie, 89-632, Polska;53.8862;17.7190;14.4;0.252
+57;Brwinów ;Brwinów, gmina Brwinów, powiat pruszkowski, województwo mazowieckie, 05-840, Polska;52.1426;20.7171;9.9;0.195
+58;Brzeg;Brzeg, powiat brzeski, województwo opolskie, Polska;50.8615;17.4705;8.5;0.176
+59;Brzeg Dolny ;Brzeg Dolny, gmina Brzeg Dolny, powiat wołowski, województwo dolnośląskie, Polska;51.2614;16.7228;9.5;0.19
+60;Brzesko ;Brzesko, gmina Brzesko, powiat brzeski, województwo małopolskie, Polska;49.9678;20.6068;5.9;0.138
+61;Brzeszcze ;Brzeszcze, gmina Brzeszcze, powiat oświęcimski, województwo małopolskie, 32-620, Polska;49.9819;19.1528;6.4;0.145
+62;Brześć Kujawski ;Brześć Kujawski, gmina Brześć Kujawski, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.6048;18.9015;11.4;0.214
+63;Brzeziny ;Brzeziny, powiat brzeziński, województwo łódzkie, 95-060, Polska;51.8005;19.7518;9.5;0.19
+64;Brzostek ;Brzostek, gmina Brzostek, powiat dębicki, województwo podkarpackie, 39-230, Polska;49.8785;21.4119;5.6;0.132
+65;Brzozów ;Brzozów, gmina Brzozów, powiat brzozowski, województwo podkarpackie, 36-200, Polska;49.6950;22.0197;5.1;0.125
+66;Budzyń ;Budzyń, gmina Busko-Zdrój, powiat buski, województwo świętokrzyskie, Polska;50.3834;20.7657;6.6;0.148
+67;Buk;Buk, gmina Buk, powiat poznański, województwo wielkopolskie, Polska;52.3574;16.5167;11.7;0.219
+68;Bukowno ;Bukowno, powiat olkuski, województwo małopolskie, 32-332, Polska;50.2698;19.4638;6.8;0.151
+69;Busko-Zdrój ;Busko-Zdrój, gmina Busko-Zdrój, powiat buski, województwo świętokrzyskie, 28-100, Polska;50.4676;20.7192;6.8;0.151
+70;Bychawa ;Bychawa, gmina Bychawa, powiat lubelski, województwo lubelskie, 23-100, Polska;51.0152;22.5345;7.3;0.158
+71;Byczyna ;Byczyna, gmina Byczyna, powiat kluczborski, województwo opolskie, 46-220, Polska;51.1142;18.2143;8.7;0.179
+72;Bydgoszcz ;Bydgoszcz, województwo kujawsko-pomorskie, Polska;53.1220;18.0003;12.7;0.232
+73;Bystrzyca Kłodzka ;Bystrzyca Kłodzka, gmina Bystrzyca Kłodzka, powiat kłodzki, województwo dolnośląskie, 57-500, Polska;50.2969;16.6520;7.8;0.166
+74;Bytom ;Bytom, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3470;18.9232;7.1;0.155
+75;Bytom Odrzański ;Bytom Odrzański, gmina Bytom Odrzański, powiat nowosolski, województwo lubuskie, Polska;51.7308;15.8269;10.8;0.207
+76;Bytów ;Bytów, gmina Bytów, powiat bytowski, województwo pomorskie, Polska;54.1689;17.4923;15.1;0.260
+77;Cedynia ;Cedynia, gmina Cedynia, powiat gryfiński, województwo zachodniopomorskie, Polska;52.8786;14.2026;13.8;0.245
+78;Chełm ;Chełm, województwo lubelskie, Polska;51.1339;23.4712;7.3;0.158
+79;Chełmek ;Chełmek, gmina Chełmek, powiat oświęcimski, województwo małopolskie, 32-660, Polska;50.1003;19.2543;6.5;0.147
+80;Chełmno ;Chełmno, powiat chełmiński, województwo kujawsko-pomorskie, 86-200, Polska;53.3494;18.4235;13.0;0.236
+81;Chełmża ;Chełmża, powiat toruński, województwo kujawsko-pomorskie, 87-140, Polska;53.1860;18.6113;12.6;0.231
+82;Chęciny ;Chęciny, gmina Chęciny, powiat kielecki, województwo świętokrzyskie, Polska;50.8001;20.4622;7.4;0.16
+83;Chmielnik;Chmielnik, gmina Chmielnik, powiat kielecki, województwo świętokrzyskie, Polska;50.6146;20.7510;7.0;0.154
+84;Chocianów ;Chocianów, gmina Chocianów, powiat polkowicki, województwo dolnośląskie, Polska;51.4168;15.8987;10.2;0.199
+85;Chociwel ;Chociwel, gmina Chociwel, powiat stargardzki, województwo zachodniopomorskie, 73-120, Polska;53.4664;15.3314;14.5;0.253
+86;Chocz ;Chocz, gmina Chocz, powiat pleszewski, województwo wielkopolskie, 63-313, Polska;51.9751;17.8707;10.5;0.203
+87;Chodecz ;Chodecz, gmina Chodecz, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.4052;19.0273;10.9;0.209
+88;Chodzież ;Chodzież, powiat chodzieski, województwo wielkopolskie, 64-800, Polska;52.9887;16.9160;12.9;0.233
+89;Chojna ;Chojna, gmina Chojna, powiat gryfiński, województwo zachodniopomorskie, 74-500, Polska;52.9630;14.4314;13.8;0.245
+90;Chojnice ;Chojnice, powiat chojnicki, województwo pomorskie, Polska;53.6953;17.5615;14.1;0.248
+91;Chojnów ;Chojnów, powiat legnicki, województwo dolnośląskie, 59-225, Polska;51.2723;15.9335;9.9;0.195
+92;Choroszcz ;Choroszcz, gmina Choroszcz, powiat białostocki, województwo podlaskie, 16-070, Polska;53.1439;22.9885;11.2;0.213
+93;Chorzele ;Chorzele, gmina Chorzele, powiat przasnyski, województwo mazowieckie, Polska;53.2610;20.8979;12.0;0.223
+94;Chorzów ;Chorzów, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2979;18.9544;7.0;0.154
+95;Choszczno ;Choszczno, gmina Choszczno, powiat choszczeński, województwo zachodniopomorskie, 73-200, Polska;53.1705;15.4167;13.8;0.245
+96;Chrzanów ;Chrzanów, gmina Chrzanów, powiat chrzanowski, województwo małopolskie, 32-500, Polska;50.1412;19.4029;6.6;0.148
+97;Ciechanowiec ;Ciechanowiec, gmina Ciechanowiec, powiat wysokomazowiecki, województwo podlaskie, Polska;52.6788;22.4991;10.4;0.202
+98;Ciechanów ;Ciechanów, powiat ciechanowski, województwo mazowieckie, Polska;52.8820;20.6191;11.4;0.214
+99;Ciechocinek ;Ciechocinek, powiat aleksandrowski, województwo kujawsko-pomorskie, 87-720, Polska;52.8826;18.7907;11.9;0.222
+100;Cieszanów ;Cieszanów, gmina Cieszanów, powiat lubaczowski, województwo podkarpackie, 37-611, Polska;50.2454;23.1301;5.8;0.135
+101;Cieszyn ;Cieszyn, powiat cieszyński, województwo śląskie, 43-400, Polska;49.7489;18.6334;6.1;0.141
+102;Ciężkowice ;Ciężkowice, gmina Ciężkowice, powiat tarnowski, województwo małopolskie, 33-190, Polska;49.7865;20.9738;5.5;0.131
+103;Cybinka ;Cybinka, gmina Cybinka, powiat słubicki, województwo lubuskie, Polska;52.1940;14.7969;12.1;0.224
+104;Czaplinek ;Czaplinek, gmina Czaplinek, powiat drawski, województwo zachodniopomorskie, 78-550, Polska;53.5607;16.2319;14.3;0.251
+105;Czarna Białostocka ;Czarna Białostocka, gmina Czarna Białostocka, powiat białostocki, województwo podlaskie, 16-020, Polska;53.2983;23.2851;11.5;0.216
+106;Czarna Woda;Czarna Woda, gmina Czarna Woda, powiat starogardzki, województwo pomorskie, 83-262, Polska;53.8442;18.0984;14.2;0.25
+107;Czarne ;Czarne, gmina Czarne, powiat człuchowski, województwo pomorskie, Polska;53.6835;16.9422;14.3;0.251
+108;Czarnków ;Czarnków, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-700, Polska;52.9050;16.5640;12.8;0.233
+109;Czchów ;Czchów, gmina Czchów, powiat brzeski, województwo małopolskie, 32-860, Polska;49.8339;20.6731;5.7;0.134
+110;Czechowice-Dziedzice ;Czechowice-Dziedzice, gmina Czechowice-Dziedzice, powiat bielski, województwo śląskie, Polska;49.9112;19.0076;6.3;0.144
+111;Czeladź;Czeladź, powiat będziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3185;19.0737;7.0;0.154
+112;Czempiń ;Czempiń, gmina Czempiń, powiat kościański, województwo wielkopolskie, 64-020, Polska;52.1431;16.7613;11.2;0.213
+113;Czerniejewo ;Czerniejewo, gmina Czerniejewo, powiat gnieźnieński, województwo wielkopolskie, 62-250, Polska;52.4296;17.4894;11.5;0.216
+114;Czersk ;Czersk, gmina Czersk, powiat chojnicki, województwo pomorskie, 89-650, Polska;53.7962;17.9756;14.1;0.249
+115;Czerwieńsk ;Czerwieńsk, gmina Czerwieńsk, powiat zielonogórski, województwo lubuskie, Polska;52.0131;15.4211;11.5;0.216
+116;Czerwionka-Leszczyny ;Czerwionka-Leszczyny, gmina Czerwionka-Leszczyny, powiat rybnicki, województwo śląskie, Polska;50.1450;18.6532;6.8;0.151
+117;Czerwińsk nad Wisłą;Czerwińsk nad Wisłą, gmina Czerwińsk nad Wisłą, powiat płoński, województwo mazowieckie, Polska;52.3968;20.3096;10.5;0.203
+118;Częstochowa ;Częstochowa, województwo śląskie, Polska;50.8120;19.1132;7.8;0.167
+119;Człopa ;Człopa, gmina Człopa, powiat wałecki, województwo zachodniopomorskie, 78-630, Polska;53.0885;16.1201;13.4;0.24
+120;Człuchów ;Człuchów, powiat człuchowski, województwo pomorskie, 77-300, Polska;53.6651;17.3588;14.1;0.248
+121;Czyżew ;Czyżew, gmina Czyżew, powiat wysokomazowiecki, województwo podlaskie, Polska;52.7976;22.3123;10.7;0.206
+122;Ćmielów ;Ćmielów, gmina Ćmielów, powiat ostrowiecki, województwo świętokrzyskie, 27-440, Polska;50.8918;21.5101;7.3;0.159
+123;Daleszyce ;Daleszyce, gmina Daleszyce, powiat kielecki, województwo świętokrzyskie, Polska;50.8020;20.8066;7.3;0.159
+124;Darłowo ;Darłowo, powiat sławieński, województwo zachodniopomorskie, Polska;54.4225;16.4093;16.1;0.272
+125;Dąbie ;Dąbie, gmina Dąbie, powiat kolski, województwo wielkopolskie, 62-660, Polska;52.0872;18.8221;10.4;0.201
+126;Dąbrowa Białostocka ;Dąbrowa Białostocka, gmina Dąbrowa Białostocka, powiat sokólski, województwo podlaskie, 16-200, Polska;53.6544;23.3485;12.2;0.225
+127;Dąbrowa Górnicza ;Dąbrowa Górnicza, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3309;19.2079;7.0;0.154
+128;Dąbrowa Tarnowska ;Dąbrowa Tarnowska, gmina Dąbrowa Tarnowska, powiat dąbrowski, województwo małopolskie, 33-200, Polska;50.1743;20.9851;6.2;0.142
+129;Debrzno ;Debrzno, gmina Debrzno, powiat człuchowski, województwo pomorskie, Polska;53.5386;17.2339;13.9;0.246
+130;Dębica ;Dębica, powiat dębicki, województwo podkarpackie, 39-200, Polska;50.0515;21.4105;5.8;0.137
+131;Dęblin ;Dęblin, powiat rycki, województwo lubelskie, Polska;51.5625;21.8654;8.4;0.175
+132;Dębno ;Dębno, gmina Dębno, powiat myśliborski, województwo zachodniopomorskie, 74-400, Polska;52.7397;14.7015;13.3;0.238
+133;Dobczyce ;Dobczyce, gmina Dobczyce, powiat myślenicki, województwo małopolskie, 32-410, Polska;49.8803;20.0905;5.9;0.138
+134;Dobiegniew ;Dobiegniew, gmina Dobiegniew, powiat strzelecko-drezdenecki, województwo lubuskie, Polska;52.9668;15.7548;13.3;0.239
+135;Dobra (powiat łobeski) ;Dobra, gmina Dobra, powiat łobeski, województwo zachodniopomorskie, Polska;53.5847;15.3073;14.7;0.256
+136;Dobra (powiat turecki) ;Dobra, gmina Dobra, powiat turecki, województwo wielkopolskie, Polska;51.9160;18.6152;10.1;0.198
+137;Dobre Miasto ;Dobre Miasto, gmina Dobre Miasto, powiat olsztyński, województwo warmińsko-mazurskie, 11-040, Polska;53.9869;20.3973;13.7;0.244
+138;Dobrodzień ;Dobrodzień, gmina Dobrodzień, powiat oleski, województwo opolskie, 46-380, Polska;50.7289;18.4443;7.9;0.168
+139;Dobrzany ;Dobrzany, gmina Dobrzany, powiat stargardzki, województwo zachodniopomorskie, 73-130, Polska;53.3583;15.4299;14.2;0.25
+140;Dobrzyca ;Dobrzyca, gmina Dobrzyca, powiat pleszewski, województwo wielkopolskie, 63-330, Polska;51.8668;17.6026;10.4;0.201
+141;Dobrzyń nad Wisłą ;Dobrzyń nad Wisłą, gmina Dobrzyń nad Wisłą, powiat lipnowski, województwo kujawsko-pomorskie, Polska;52.6375;19.3214;11.3;0.213
+142;Dolsk ;Dolsk, gmina Dolsk, powiat śremski, województwo wielkopolskie, 63-140, Polska;51.9866;17.0654;10.8;0.207
+143;Drawno ;Drawno, gmina Drawno, powiat choszczeński, województwo zachodniopomorskie, Polska;53.2189;15.7580;13.8;0.245
+144;Drawsko Pomorskie ;Drawsko Pomorskie, gmina Drawsko Pomorskie, powiat drawski, województwo zachodniopomorskie, 78-500, Polska;53.5311;15.8134;14.4;0.252
+145;Drezdenko ;Drezdenko, gmina Drezdenko, powiat strzelecko-drezdenecki, województwo lubuskie, Polska;52.8397;15.8323;13.0;0.235
+146;Drobin ;Drobin, gmina Drobin, powiat płocki, województwo mazowieckie, Polska;52.7378;19.9893;11.3;0.213
+147;Drohiczyn;Drohiczyn, gmina Drohiczyn, powiat siemiatycki, województwo podlaskie, Polska;52.3966;22.6588;9.8;0.194
+148;Drzewica;Drzewica, gmina Drzewica, powiat opoczyński, województwo łódzkie, Polska;51.4508;20.4774;8.6;0.178
+149;Dubiecko ;Dubiecko, gmina Dubiecko, powiat przemyski, województwo podkarpackie, 37-750, Polska;49.8253;22.3916;5.2;0.127
+150;Dukla ;Dukla, gmina Dukla, powiat krośnieński, województwo podkarpackie, Polska;49.5564;21.6848;5.0;0.122
+151;Duszniki-Zdrój ;Duszniki-Zdrój, powiat kłodzki, województwo dolnośląskie, 57-340, Polska;50.3703;16.3785;8.0;0.169
+152;Dynów ;Dynów, powiat rzeszowski, województwo podkarpackie, 36-065, Polska;49.8135;22.2338;5.2;0.127
+153;Działdowo ;Działdowo, powiat działdowski, województwo warmińsko-mazurskie, 13-201, Polska;53.2347;20.1818;12.2;0.225
+154;Działoszyce ;Działoszyce, gmina Działoszyce, powiat pińczowski, województwo świętokrzyskie, Polska;50.3655;20.3521;6.7;0.149
+155;Działoszyn ;Działoszyn, gmina Działoszyn, powiat pajęczański, województwo łódzkie, 98-355, Polska;51.1168;18.8652;8.5;0.176
+156;Dzierzgoń ;Dzierzgoń, gmina Dzierzgoń, powiat sztumski, województwo pomorskie, Polska;53.9239;19.3479;13.9;0.246
+157;Dzierżoniów ;Dzierżoniów, powiat dzierżoniowski, województwo dolnośląskie, Polska;50.7284;16.6506;8.6;0.177
+158;Dziwnów ;Dziwnów, gmina Dziwnów, powiat kamieński, województwo zachodniopomorskie, 72-420, Polska;54.0251;14.7526;15.9;0.27
+159;Elbląg ;Elbląg, województwo warmińsko-mazurskie, 82-300, Polska;54.1559;19.4045;14.4;0.252
+160;Ełk ;Ełk, powiat ełcki, województwo warmińsko-mazurskie, Polska;53.8248;22.3616;12.8;0.233
+161;Frampol ;Frampol, gmina Frampol, powiat biłgorajski, województwo lubelskie, Polska;50.6718;22.6699;6.6;0.148
+162;Frombork ;Frombork, gmina Frombork, powiat braniewski, województwo warmińsko-mazurskie, Polska;54.3584;19.6824;14.7;0.256
+163;Garwolin ;Garwolin, powiat garwoliński, województwo mazowieckie, 08-400, Polska;51.8973;21.6150;9.1;0.185
+164;Gąbin ;Gąbin, gmina Gąbin, powiat płocki, województwo mazowieckie, 09-530, Polska;52.3994;19.7307;10.7;0.206
+165;Gdańsk ;Gdańsk, województwo pomorskie, Polska;54.3476;18.6452;15.1;0.26
+166;Gdynia ;Gdynia, województwo pomorskie, Polska;54.5165;18.5403;15.5;0.265
+167;Giżycko ;Giżycko, powiat giżycki, województwo warmińsko-mazurskie, Polska;54.0401;21.7713;13.4;0.24
+168;Glinojeck ;Glinojeck, gmina Glinojeck, powiat ciechanowski, województwo mazowieckie, 06-450, Polska;52.8192;20.2863;11.3;0.214
+169;Gliwice ;Gliwice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2941;18.6657;7.1;0.155
+170;Głogów ;Głogów, powiat głogowski, województwo dolnośląskie, 67-200, Polska;51.6637;16.0936;10.5;0.204
+171;Głogów Małopolski ;Głogów Małopolski, gmina Głogów Małopolski, powiat rzeszowski, województwo podkarpackie, Polska;50.1512;21.9628;5.9;0.137
+172;Głogówek ;Głogówek, gmina Głogówek, powiat prudnicki, województwo opolskie, 48-250, Polska;50.3534;17.8619;7.4;0.161
+173;Głowno ;Głowno, powiat zgierski, województwo łódzkie, 95-015, Polska;51.9661;19.7136;9.8;0.194
+174;Głubczyce ;Głubczyce, gmina Głubczyce, powiat głubczycki, województwo opolskie, 48-100, Polska;50.2001;17.8293;7.2;0.157
+175;Głuchołazy ;Głuchołazy, gmina Głuchołazy, powiat nyski, województwo opolskie, 48-340, Polska;50.3171;17.3834;7.5;0.162
+176;Głuszyca ;Głuszyca, gmina Głuszyca, powiat wałbrzyski, województwo dolnośląskie, 58-340, Polska;50.6862;16.3731;8.6;0.177
+177;Gniew;Gniew, gmina Gniew, powiat tczewski, województwo pomorskie, 83-140, Polska;53.8342;18.8252;13.9;0.246
+178;Gniewkowo ;Gniewkowo, gmina Gniewkowo, powiat inowrocławski, województwo kujawsko-pomorskie, 88-140, Polska;52.8944;18.4067;12.1;0.224
+179;Gniezno ;Gniezno, powiat gnieźnieński, województwo wielkopolskie, Polska;52.5360;17.5959;11.7;0.219
+180;Gogolin ;Gogolin, gmina Gogolin, powiat krapkowicki, województwo opolskie, 47-320, Polska;50.4925;18.0176;7.6;0.164
+181;Golczewo ;Golczewo, gmina Golczewo, powiat kamieński, województwo zachodniopomorskie, Polska;53.8241;14.9773;15.4;0.264
+182;Goleniów ;Goleniów, gmina Goleniów, powiat goleniowski, województwo zachodniopomorskie, 72-100, Polska;53.5657;14.8301;14.9;0.258
+183;Golina ;Golina, gmina Golina, powiat koniński, województwo wielkopolskie, Polska;52.2428;18.0953;10.9;0.209
+184;Golub-Dobrzyń ;Golub-Dobrzyń, powiat golubsko-dobrzyński, województwo kujawsko-pomorskie, Polska;53.1139;19.0545;12.3;0.227
+185;Gołańcz ;Gołańcz, gmina Gołańcz, powiat wągrowiecki, województwo wielkopolskie, 62-130, Polska;52.9432;17.3000;12.6;0.23
+186;Gołdap ;Gołdap, gmina Gołdap, powiat gołdapski, województwo warmińsko-mazurskie, Polska;54.3080;22.3019;13.9;0.246
+187;Goniądz ;Goniądz, gmina Goniądz, powiat moniecki, województwo podlaskie, 19-110, Polska;53.4892;22.7324;12.0;0.223
+188;Goraj ;Goraj, gmina Goraj, powiat biłgorajski, województwo lubelskie, Polska;50.7212;22.6682;6.7;0.15
+189;Gorlice ;Gorlice, powiat gorlicki, województwo małopolskie, Polska;49.6583;21.1594;5.3;0.127
+190;Gorzów Śląski ;Gorzów Śląski, gmina Gorzów Śląski, powiat oleski, województwo opolskie, 46-310, Polska;51.0282;18.4223;8.5;0.176
+191;Gorzów Wielkopolski ;Gorzów Wielkopolski, województwo lubuskie, Polska;52.7310;15.2400;13.0;0.235
+192;Gostynin ;Gostynin, powiat gostyniński, województwo mazowieckie, Polska;52.4288;19.4613;10.8;0.207
+193;Gostyń ;Gostyń, gmina Gostyń, powiat gostyński, województwo wielkopolskie, 63-800, Polska;51.8779;17.0168;10.6;0.205
+194;Gościno ;Gościno, gmina Gościno, powiat kołobrzeski, województwo zachodniopomorskie, 78-120, Polska;54.0516;15.6534;15.6;0.266
+195;Gozdnica ;Gozdnica, powiat żagański, województwo lubuskie, 68-130, Polska;51.4373;15.0960;10.5;0.204
+196;Góra;Góra, gmina Góra, powiat górowski, województwo dolnośląskie, 56-200, Polska;51.6681;16.5393;10.4;0.202
+197;Góra Kalwaria ;Góra Kalwaria, gmina Góra Kalwaria, powiat piaseczyński, województwo mazowieckie, Polska;51.9844;21.2140;9.4;0.189
+198;Górowo Iławeckie ;Górowo Iławeckie, powiat bartoszycki, województwo warmińsko-mazurskie, 11-220, Polska;54.2886;20.4905;14.3;0.251
+199;Górzno ;Górzno, gmina Górzno, powiat brodnicki, województwo kujawsko-pomorskie, Polska;53.1981;19.6446;12.3;0.227
+200;Grabów nad Prosną ;Grabów nad Prosną, gmina Grabów nad Prosną, powiat ostrzeszowski, województwo wielkopolskie, Polska;51.5061;18.1189;9.5;0.19
+201;Grajewo ;Grajewo, powiat grajewski, województwo podlaskie, Polska;53.6470;22.4549;12.4;0.228
+202;Grodków ;Grodków, gmina Grodków, powiat brzeski, województwo opolskie, 49-200, Polska;50.6982;17.3850;8.2;0.172
+203;Grodzisk Mazowiecki ;Grodzisk Mazowiecki, gmina Grodzisk Mazowiecki, powiat grodziski, województwo mazowieckie, 05-827, Polska;52.1066;20.6313;9.8;0.194
+204;Grodzisk Wielkopolski ;Grodzisk Wielkopolski, gmina Grodzisk Wielkopolski, powiat grodziski, województwo wielkopolskie, Polska;52.2263;16.3628;11.5;0.217
+205;Grójec ;Grójec, gmina Grójec, powiat grójecki, województwo mazowieckie, Polska;51.8655;20.8675;9.3;0.187
+206;Grudziądz ;Grudziądz, województwo kujawsko-pomorskie, Polska;53.4876;18.7558;13.2;0.238
+207;Grybów ;Grybów, powiat nowosądecki, województwo małopolskie, Polska;49.6251;20.9446;5.3;0.127
+208;Gryfice ;Gryfice, gmina Gryfice, powiat gryficki, województwo zachodniopomorskie, 72-300, Polska;53.9149;15.1987;15.5;0.265
+209;Gryfino ;Gryfino, gmina Gryfino, powiat gryfiński, województwo zachodniopomorskie, Polska;53.2536;14.4924;14.4;0.252
+210;Gryfów Śląski ;Gryfów Śląski, gmina Gryfów Śląski, powiat lwówecki, województwo dolnośląskie, 59-620, Polska;51.0281;15.4145;9.6;0.191
+211;Gubin ;Gubin, powiat krośnieński, województwo lubuskie, 66-620, Polska;51.9510;14.7273;11.7;0.219
+212;Hajnówka ;Hajnówka, powiat hajnowski, województwo podlaskie, 17-200, Polska;52.7397;23.5818;10.3;0.201
+213;Halinów ;Halinów, gmina Gostynin, powiat gostyniński, województwo mazowieckie, 09-500, Polska;52.3582;19.4706;10.7;0.206
+214;Hel;Hel, powiat pucki, województwo pomorskie, 84-150, Polska;54.6066;18.8027;15.6;0.266
+215;Hrubieszów ;Hrubieszów, powiat hrubieszowski, województwo lubelskie, 22-500, Polska;50.8047;23.8874;6.6;0.148
+216;Iława ;Iława, powiat iławski, województwo warmińsko-mazurskie, Polska;53.5976;19.5612;13.2;0.237
+217;Iłowa ;Iłowa, gmina Iłowa, powiat żagański, województwo lubuskie, 68-120, Polska;51.5007;15.1985;10.6;0.205
+218;Iłża ;Iłża, gmina Iłża, powiat radomski, województwo mazowieckie, 27-100, Polska;51.1624;21.2375;7.9;0.167
+219;Imielin ;Imielin, powiat bieruńsko-lędziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 41-407, Polska;50.1455;19.1858;6.6;0.149
+220;Inowrocław ;Inowrocław, powiat inowrocławski, województwo kujawsko-pomorskie, Polska;52.7952;18.2596;12.0;0.222
+221;Ińsko ;Ińsko, gmina Ińsko, powiat stargardzki, województwo zachodniopomorskie, Polska;53.4365;15.5503;14.3;0.251
+222;Iwonicz-Zdrój ;Iwonicz-Zdrój, gmina Iwonicz-Zdrój, powiat krośnieński, województwo podkarpackie, 38-440, Polska;49.5697;21.7932;5.0;0.122
+223;Izbica Kujawska ;Izbica Kujawska, gmina Izbica Kujawska, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.4192;18.7644;11.0;0.21
+224;Jabłonowo Pomorskie ;Jabłonowo Pomorskie, gmina Jabłonowo Pomorskie, powiat brodnicki, województwo kujawsko-pomorskie, Polska;53.3880;19.1527;12.9;0.233
+225;Janikowo ;Janikowo, gmina Janikowo, powiat inowrocławski, województwo kujawsko-pomorskie, Polska;52.7532;18.1141;11.9;0.222
+226;Janowiec Wielkopolski ;Janowiec Wielkopolski, gmina Janowiec Wielkopolski, powiat żniński, województwo kujawsko-pomorskie, Polska;52.7567;17.4888;12.2;0.225
+227;Janów Lubelski ;Janów Lubelski, gmina Janów Lubelski, powiat janowski, województwo lubelskie, 23-300, Polska;50.7066;22.4111;6.7;0.15
+228;Jaraczewo ;Jaraczewo, gmina Jaraczewo, powiat jarociński, województwo wielkopolskie, Polska;51.9689;17.2981;10.7;0.205
+229;Jarocin ;Jarocin, gmina Jarocin, powiat jarociński, województwo wielkopolskie, 63-200, Polska;51.9739;17.5011;10.6;0.205
+230;Jarosław;Jarosław, Elektrowniana, Osiedle im. Wojska Polskiego, Jarosław, powiat jarosławski, województwo podkarpackie, 37-500, Polska;50.0105;22.6786;5.5;0.131
+231;Jasień;Jasień, gmina Jasień, powiat żarski, województwo lubuskie, 68320, Polska;51.7515;15.0123;11.2;0.212
+232;Jasło ;Jasło, powiat jasielski, województwo podkarpackie, Polska;49.7470;21.4743;5.3;0.128
+233;Jastarnia ;Jastarnia, powiat pucki, województwo pomorskie, Polska;54.7028;18.6713;15.8;0.269
+234;Jastrowie ;Jastrowie, gmina Jastrowie, powiat złotowski, województwo wielkopolskie, 64-915, Polska;53.4205;16.8150;13.8;0.245
+235;Jastrzębie-Zdrój ;Jastrzębie-Zdrój, województwo śląskie, Polska;49.9519;18.6024;6.5;0.147
+236;Jawor;Jawor, powiat jaworski, województwo dolnośląskie, Polska;51.0505;16.1932;9.3;0.188
+237;Jaworzno ;Jaworzno, województwo śląskie, Polska;50.2034;19.2722;6.7;0.15
+238;Jaworzyna Śląska ;Jaworzyna Śląska, gmina Jaworzyna Śląska, powiat świdnicki, województwo dolnośląskie, 58-140, Polska;50.9144;16.4309;9.0;0.183
+239;Jedlicze ;Jedlicze, gmina Jedlicze, powiat krośnieński, województwo podkarpackie, 38-460, Polska;49.7141;21.6422;5.2;0.127
+240;Jedlina-Zdrój ;Jedlina-Zdrój, powiat wałbrzyski, województwo dolnośląskie, 58-330, Polska;50.7238;16.3457;8.7;0.179
+241;Jedwabne ;Jedwabne, gmina Jedwabne, powiat łomżyński, województwo podlaskie, Polska;53.2867;22.3021;11.7;0.219
+242;Jelcz-Laskowice ;Jelcz-Laskowice, gmina Jelcz-Laskowice, powiat oławski, województwo dolnośląskie, Polska;51.0398;17.3500;8.9;0.181
+243;Jelenia Góra ;Jelenia Góra, województwo dolnośląskie, Polska;50.9031;15.7344;9.3;0.186
+244;Jeziorany ;Jeziorany, gmina Jeziorany, powiat olsztyński, województwo warmińsko-mazurskie, 11-320, Polska;53.9769;20.7459;13.6;0.242
+245;Jędrzejów ;Jędrzejów, gmina Jędrzejów, powiat jędrzejowski, województwo świętokrzyskie, 28-300, Polska;50.6394;20.3046;7.2;0.157
+246;Jordanów ;Jordanów, powiat suski, województwo małopolskie, Polska;49.6493;19.8300;5.6;0.133
+247;Józefów (powiat biłgorajski) ;Józefów, gmina Józefów, powiat biłgorajski, województwo lubelskie, Polska;50.4804;23.0536;6.2;0.142
+248;Józefów (powiat otwocki) ;Józefów, powiat otwocki, województwo mazowieckie, Polska;52.1285;21.2156;9.7;0.192
+249;Józefów nad Wisłą ;Józefów nad Wisłą, gmina Józefów nad Wisłą, powiat opolski, województwo lubelskie, Polska;51.0409;21.8297;7.5;0.161
+250;Jutrosin ;Jutrosin, gmina Jutrosin, powiat rawicki, województwo wielkopolskie, Polska;51.6536;17.1690;10.1;0.198
+251;Kalety ;Kalety, powiat tarnogórski, województwo śląskie, 42-660, Polska;50.5687;18.9361;7.5;0.161
+252;Kalisz ;Kalisz, województwo wielkopolskie, 62-800, Polska;51.7625;18.0895;10.0;0.196
+253;Kalisz Pomorski ;Kalisz Pomorski, gmina Kalisz Pomorski, powiat drawski, województwo zachodniopomorskie, 78-540, Polska;53.2982;15.9060;13.9;0.246
+254;Kalwaria Zebrzydowska ;Kalwaria Zebrzydowska, gmina Kalwaria Zebrzydowska, powiat wadowicki, województwo małopolskie, 34-130, Polska;49.8669;19.6763;6.0;0.139
+255;Kałuszyn ;Kałuszyn, gmina Kałuszyn, powiat miński, województwo mazowieckie, 05-310, Polska;52.2082;21.8133;9.7;0.192
+256;Kamieniec Ząbkowicki ;Kamieniec Ząbkowicki, gmina Kamieniec Ząbkowicki, powiat ząbkowicki, województwo dolnośląskie, 57-230, Polska;50.5229;16.8736;8.1;0.17
+257;Kamienna Góra ;Kamienna Góra, powiat kamiennogórski, województwo dolnośląskie, 58-400, Polska;50.7847;16.0224;8.9;0.182
+258;Kamień Krajeński ;Kamień Krajeński, gmina Kamień Krajeński, powiat sępoleński, województwo kujawsko-pomorskie, 89-430, Polska;53.5333;17.5199;13.7;0.244
+259;Kamień Pomorski ;Kamień Pomorski, gmina Kamień Pomorski, powiat kamieński, województwo zachodniopomorskie, Polska;53.9648;14.7735;15.8;0.268
+260;Kamieńsk ;Kamieńsk, gmina Kamieńsk, powiat radomszczański, województwo łódzkie, Polska;51.2042;19.4971;8.4;0.175
+261;Kamionka;Kamionka, gmina Kamionka, powiat lubartowski, województwo lubelskie, 21-132, Polska;51.4711;22.4644;8.1;0.171
+262;Kańczuga ;Kańczuga, gmina Kańczuga, powiat przeworski, województwo podkarpackie, Polska;49.9844;22.4132;5.5;0.131
+263;Karczew ;Karczew, gmina Karczew, powiat otwocki, województwo mazowieckie, Polska;52.0783;21.2508;9.6;0.191
+264;Kargowa ;Kargowa, gmina Kargowa, powiat zielonogórski, województwo lubuskie, 66-120, Polska;52.0719;15.8648;11.4;0.215
+265;Karlino ;Karlino, gmina Karlino, powiat białogardzki, województwo zachodniopomorskie, Polska;54.0410;15.8793;15.5;0.265
+266;Karpacz ;Karpacz, powiat karkonoski, województwo dolnośląskie, 58-540, Polska;50.7747;15.7542;9.0;0.183
+267;Kartuzy ;Kartuzy, gmina Kartuzy, powiat kartuski, województwo pomorskie, 83-300, Polska;54.3342;18.1974;15.2;0.262
+268;Katowice ;Katowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2599;19.0216;6.9;0.153
+269;Kazimierz Dolny ;Kazimierz Dolny, gmina Kazimierz Dolny, powiat puławski, województwo lubelskie, 24-120, Polska;51.3220;21.9474;8.0;0.168
+270;Kazimierza Wielka ;Kazimierza Wielka, gmina Kazimierza Wielka, powiat kazimierski, województwo świętokrzyskie, Polska;50.2675;20.4853;6.5;0.146
+271;Kąty Wrocławskie ;Kąty Wrocławskie, gmina Kąty Wrocławskie, powiat wrocławski, województwo dolnośląskie, Polska;51.0303;16.7702;9.1;0.184
+272;Kcynia ;Kcynia, gmina Kcynia, powiat nakielski, województwo kujawsko-pomorskie, Polska;52.9918;17.4874;12.6;0.231
+273;Kędzierzyn-Koźle ;Kędzierzyn-Koźle, powiat kędzierzyńsko-kozielski, województwo opolskie, Polska;50.3449;18.2110;7.3;0.159
+274;Kępice ;Kępice, gmina Kępice, powiat słupski, województwo pomorskie, Polska;54.2428;16.8897;15.5;0.265
+275;Kępno ;Kępno, gmina Kępno, powiat kępiński, województwo wielkopolskie, Polska;51.2790;17.9867;9.1;0.184
+276;Kętrzyn ;Kętrzyn, powiat kętrzyński, województwo warmińsko-mazurskie, Polska;54.0764;21.3753;13.6;0.243
+277;Kęty ;Kęty, gmina Kęty, powiat oświęcimski, województwo małopolskie, 32-650, Polska;49.8818;19.2302;6.2;0.142
+278;Kielce ;Kielce, województwo świętokrzyskie, Polska;50.8720;20.6310;7.5;0.162
+279;Kietrz ;Kietrz, gmina Kietrz, powiat głubczycki, województwo opolskie, Polska;50.0796;18.0021;6.9;0.153
+280;Kisielice ;Kisielice, gmina Kisielice, powiat iławski, województwo warmińsko-mazurskie, Polska;53.6076;19.2594;13.3;0.239
+281;Kleczew ;Kleczew, gmina Kleczew, powiat koniński, województwo wielkopolskie, 62-540, Polska;52.3707;18.1780;11.1;0.212
+282;Kleszczele ;Kleszczele, gmina Kleszczele, powiat hajnowski, województwo podlaskie, 17-250, Polska;52.5742;23.3255;10.0;0.197
+283;Klimontów ;Klimontów, gmina Klimontów, powiat sandomierski, województwo świętokrzyskie, 27-640, Polska;50.6564;21.4506;6.9;0.153
+284;Kluczbork ;Kluczbork, gmina Kluczbork, powiat kluczborski, województwo opolskie, Polska;50.9731;18.2140;8.4;0.175
+285;Kłecko ;Kłecko, gmina Kłecko, powiat gnieźnieński, województwo wielkopolskie, Polska;52.6324;17.4283;11.9;0.222
+286;Kłobuck ;Kłobuck, gmina Kłobuck, powiat kłobucki, województwo śląskie, 42-100, Polska;50.9025;18.9371;8.1;0.17
+287;Kłodawa ;Kłodawa, gmina Kłodawa, powiat kolski, województwo wielkopolskie, Polska;52.2575;18.9112;10.7;0.205
+288;Kłodzko ;Kłodzko, powiat kłodzki, województwo dolnośląskie, 57-300, Polska;50.4387;16.6552;8.0;0.169
+289;Knurów ;Knurów, powiat gliwicki, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2217;18.6707;6.9;0.153
+290;Knyszyn ;Knyszyn, gmina Knyszyn, powiat moniecki, województwo podlaskie, 19-120, Polska;53.3122;22.9200;11.6;0.218
+291;Kobylin ;Kobylin, gmina Kobylin, powiat krotoszyński, województwo wielkopolskie, 63-740, Polska;51.7164;17.2248;10.2;0.199
+292;Kobyłka ;Kobyłka, powiat wołomiński, województwo mazowieckie, 05-230, Polska;52.3387;21.1965;10.1;0.198
+293;Kock ;Kock, gmina Kock, powiat lubartowski, województwo lubelskie, 21-150, Polska;51.6530;22.4431;8.5;0.175
+294;Kolbuszowa ;Kolbuszowa, gmina Kolbuszowa, powiat kolbuszowski, województwo podkarpackie, 36-100, Polska;50.2433;21.7755;6.1;0.14
+295;Kolno ;Kolno, powiat kolneński, województwo podlaskie, 18-500, Polska;53.4109;21.9312;12.1;0.224
+296;Kolonowskie ;Kolonowskie, gmina Kolonowskie, powiat strzelecki, województwo opolskie, 47-110, Polska;50.6529;18.3831;7.8;0.166
+297;Koluszki ;Koluszki, gmina Koluszki, powiat łódzki wschodni, województwo łódzkie, Polska;51.7445;19.8180;9.4;0.188
+298;Kołaczyce ;Kołaczyce, gmina Kołaczyce, powiat jasielski, województwo podkarpackie, Polska;49.8077;21.4341;5.4;0.13
+299;Koło;Koło, powiat kolski, województwo wielkopolskie, Polska;52.1984;18.6358;10.6;0.205
+300;Kołobrzeg ;Kołobrzeg, powiat kołobrzeski, województwo zachodniopomorskie, 78-100, Polska;54.1760;15.5764;15.9;0.27
+301;Koniecpol ;Koniecpol, gmina Koniecpol, powiat częstochowski, województwo śląskie, 42-230, Polska;50.7725;19.6770;7.6;0.163
+302;Konin ;Konin, województwo wielkopolskie, Polska;52.2302;18.2521;10.8;0.208
+303;Konstancin-Jeziorna ;Konstancin-Jeziorna, gmina Konstancin-Jeziorna, powiat piaseczyński, województwo mazowieckie, 05-510, Polska;52.0835;21.1208;9.6;0.192
+304;Konstantynów Łódzki ;Konstantynów Łódzki, powiat pabianicki, województwo łódzkie, Polska;51.7476;19.3255;9.5;0.19
+305;Końskie ;Końskie, gmina Końskie, powiat konecki, województwo świętokrzyskie, 26-200, Polska;51.1910;20.4072;8.1;0.171
+306;Koprzywnica ;Koprzywnica, gmina Koprzywnica, powiat sandomierski, województwo świętokrzyskie, 27-660, Polska;50.5932;21.5847;6.7;0.15
+307;Korfantów ;Korfantów, gmina Korfantów, powiat nyski, województwo opolskie, 48-317, Polska;50.4880;17.5984;7.8;0.166
+308;Koronowo ;Koronowo, gmina Koronowo, powiat bydgoski, województwo kujawsko-pomorskie, Polska;53.3141;17.9370;13.1;0.237
+309;Korsze ;Korsze, gmina Korsze, powiat kętrzyński, województwo warmińsko-mazurskie, 11-430, Polska;54.1708;21.1442;13.9;0.246
+310;Kosów Lacki ;Kosów Lacki, gmina Kosów Lacki, powiat sokołowski, województwo mazowieckie, 08-330, Polska;52.5961;22.1472;10.4;0.201
+311;Kostrzyn ;Kostrzyn, gmina Wyśmierzyce, powiat białobrzeski, województwo mazowieckie, Polska;51.5749;20.7310;8.8;0.18
+312;Kostrzyn nad Odrą ;Kostrzyn nad Odrą, powiat gorzowski, województwo lubuskie, 66-470, Polska;52.5899;14.6536;13.0;0.235
+313;Koszalin ;Koszalin, województwo zachodniopomorskie, Polska;54.1909;16.1771;15.7;0.267
+314;Koszyce;Koszyce, gmina Koszyce, powiat proszowicki, województwo małopolskie, Polska;50.1670;20.5756;6.3;0.143
+315;Kościan ;Kościan, powiat kościański, województwo wielkopolskie, 64-000, Polska;52.0863;16.6450;11.1;0.212
+316;Kościerzyna ;Kościerzyna, powiat kościerski, województwo pomorskie, 83-400, Polska;54.1210;17.9782;14.8;0.257
+317;Kowal;Kowal, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.5319;19.1446;11.1;0.211
+318;Kowalewo Pomorskie ;Kowalewo Pomorskie, gmina Kowalewo Pomorskie, powiat golubsko-dobrzyński, województwo kujawsko-pomorskie, Polska;53.1543;18.8975;12.5;0.229
+319;Kowary ;Kowary, powiat karkonoski, województwo dolnośląskie, 58-530, Polska;50.7938;15.8338;9.0;0.183
+320;Koziegłowy;Koziegłowy, gmina Koziegłowy, powiat myszkowski, województwo śląskie, Polska;50.5979;19.1615;7.4;0.161
+321;Kozienice ;Kozienice, gmina Kozienice, powiat kozienicki, województwo mazowieckie, 26-900, Polska;51.5850;21.5499;8.6;0.177
+322;Koźmin Wielkopolski ;Koźmin Wielkopolski, gmina Koźmin Wielkopolski, powiat krotoszyński, województwo wielkopolskie, Polska;51.8257;17.4528;10.3;0.201
+323;Koźminek ;Koźminek, gmina Koźminek, powiat kaliski, województwo wielkopolskie, Polska;51.7983;18.3384;10.0;0.196
+324;Kożuchów ;Kożuchów, gmina Kożuchów, powiat nowosolski, województwo lubuskie, 67-120, Polska;51.7455;15.5945;10.9;0.209
+325;Kórnik ;Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-035, Polska;52.2493;17.0901;11.3;0.214
+326;Krajenka ;Krajenka, gmina Krajenka, powiat złotowski, województwo wielkopolskie, Polska;53.2971;16.9910;13.5;0.241
+327;Kraków ;Kraków, województwo małopolskie, Polska;50.0619;19.9369;6.3;0.143
+328;Krapkowice ;Krapkowice, gmina Krapkowice, powiat krapkowicki, województwo opolskie, Polska;50.4747;17.9675;7.6;0.164
+329;Krasnobród ;Krasnobród, gmina Krasnobród, powiat zamojski, województwo lubelskie, 22-440, Polska;50.5460;23.2116;6.3;0.143
+330;Krasnystaw ;Krasnystaw, powiat krasnostawski, województwo lubelskie, 22-300, Polska;50.9845;23.1636;7.1;0.155
+331;Kraśnik ;Kraśnik, powiat kraśnicki, województwo lubelskie, Polska;50.9249;22.2292;7.2;0.157
+332;Krobia ;Krobia, gmina Krobia, powiat gostyński, województwo wielkopolskie, 63-840, Polska;51.7741;16.9846;10.4;0.202
+333;Krosno ;Krosno, województwo podkarpackie, 38-400, Polska;49.6938;21.7651;5.2;0.126
+334;Krosno Odrzańskie ;Krosno Odrzańskie, gmina Krosno Odrzańskie, powiat krośnieński, województwo lubuskie, Polska;52.0536;15.0980;11.7;0.219
+335;Krośniewice ;Krośniewice, gmina Krośniewice, powiat kutnowski, województwo łódzkie, 99-340, Polska;52.2561;19.1689;10.6;0.204
+336;Krotoszyn ;Krotoszyn, gmina Krotoszyn, powiat krotoszyński, województwo wielkopolskie, 63-700, Polska;51.6959;17.4374;10.1;0.198
+337;Kruszwica ;Kruszwica, gmina Kruszwica, powiat inowrocławski, województwo kujawsko-pomorskie, Polska;52.6744;18.3255;11.7;0.219
+338;Krynica Morska ;Krynica Morska, powiat nowodworski, województwo pomorskie, Polska;54.3800;19.4434;14.9;0.258
+339;Krynica-Zdrój ;Krynica-Zdrój, gmina Krynica-Zdrój, powiat nowosądecki, województwo małopolskie, Polska;49.4206;20.9594;4.9;0.122
+340;Krynki ;Krynki, gmina Krynki, powiat sokólski, województwo podlaskie, Polska;53.2644;23.7726;11.3;0.214
+341;Krzanowice ;Krzanowice, gmina Krzanowice, powiat raciborski, województwo śląskie, Polska;50.0179;18.1216;6.8;0.151
+342;Krzepice ;Krzepice, gmina Krzepice, powiat kłobucki, województwo śląskie, 42-160, Polska;50.9694;18.7264;8.3;0.173
+343;Krzeszowice ;Krzeszowice, gmina Krzeszowice, powiat krakowski, województwo małopolskie, 32-065, Polska;50.1350;19.6320;6.5;0.147
+344;Krzywiń ;Krzywiń, gmina Krzywiń, powiat kościański, województwo wielkopolskie, Polska;51.9629;16.8193;10.8;0.208
+345;Krzyż Wielkopolski ;Krzyż Wielkopolski, gmina Krzyż Wielkopolski, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-761, Polska;52.8796;16.0142;13.0;0.235
+346;Książ Wielkopolski ;Książ Wielkopolski, gmina Książ Wielkopolski, powiat śremski, województwo wielkopolskie, Polska;52.0624;17.2396;10.9;0.208
+347;Kudowa-Zdrój ;Kudowa-Zdrój, powiat kłodzki, województwo dolnośląskie, Polska;50.4420;16.2416;8.2;0.172
+348;Kunów ;Kunów, gmina Kunów, powiat ostrowiecki, województwo świętokrzyskie, 27-415, Polska;50.9541;21.2788;7.5;0.161
+349;Kutno ;Kutno, powiat kutnowski, województwo łódzkie, Polska;52.2318;19.3570;10.5;0.203
+350;Kuźnia Raciborska ;Kuźnia Raciborska, gmina Kuźnia Raciborska, powiat raciborski, województwo śląskie, Polska;50.2007;18.3106;7.0;0.155
+351;Kwidzyn ;Kwidzyn, powiat kwidzyński, województwo pomorskie, 82-500, Polska;53.7336;18.9319;13.7;0.243
+352;Lądek-Zdrój ;Lądek-Zdrój, gmina Lądek-Zdrój, powiat kłodzki, województwo dolnośląskie, 57-540, Polska;50.3458;16.8726;7.8;0.166
+353;Legionowo ;Legionowo, powiat legionowski, województwo mazowieckie, Polska;52.3952;20.9308;10.3;0.201
+354;Legnica ;Legnica, województwo dolnośląskie, Polska;51.2082;16.1603;9.6;0.192
+355;Lesko ;Lesko, gmina Lesko, powiat leski, województwo podkarpackie, Polska;49.4689;22.3304;4.7;0.117
+356;Leszno ;Leszno, województwo wielkopolskie, Polska;51.8436;16.5744;10.7;0.206
+357;Leśna ;Leśna, gmina Leśna, powiat lubański, województwo dolnośląskie, 59-820, Polska;51.0242;15.2636;9.7;0.192
+358;Leśnica;Leśnica, gmina Leśnica, powiat strzelecki, województwo opolskie, 47-150, Polska;50.4286;18.1850;7.5;0.161
+359;Lewin Brzeski ;Lewin Brzeski, gmina Lewin Brzeski, powiat brzeski, województwo opolskie, Polska;50.7496;17.6189;8.2;0.172
+360;Leżajsk ;Leżajsk, powiat leżajski, województwo podkarpackie, 37-300, Polska;50.2622;22.4189;6.0;0.138
+361;Lębork ;Lębork, powiat lęborski, województwo pomorskie, 84-300, Polska;54.5392;17.7472;15.8;0.269
+362;Lędziny ;Lędziny, powiat bieruńsko-lędziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.1379;19.1315;6.6;0.149
+363;Libiąż ;Libiąż, gmina Libiąż, powiat chrzanowski, województwo małopolskie, 32-590, Polska;50.1031;19.3147;6.5;0.147
+364;Lidzbark ;Lidzbark, gmina Lidzbark, powiat działdowski, województwo warmińsko-mazurskie, 13-230, Polska;53.2628;19.8232;12.4;0.227
+365;Lidzbark Warmiński ;Lidzbark Warmiński, powiat lidzbarski, województwo warmińsko-mazurskie, Polska;54.1259;20.5806;14.0;0.247
+366;Limanowa ;Limanowa, powiat limanowski, województwo małopolskie, Polska;49.7062;20.4217;5.5;0.132
+367;Lipiany ;Lipiany, gmina Lipiany, powiat pyrzycki, województwo zachodniopomorskie, 74-240, Polska;53.0036;14.9698;13.7;0.244
+368;Lipno ;Lipno, powiat lipnowski, województwo kujawsko-pomorskie, Polska;52.8474;19.1793;11.7;0.219
+369;Lipsk;Lipsk, gmina Lipsk, powiat augustowski, województwo podlaskie, Polska;53.7335;23.4037;12.4;0.227
+370;Lipsko ;Lipsko, gmina Lipsko, powiat lipski, województwo mazowieckie, Polska;51.1585;21.6490;7.7;0.165
+371;Lubaczów ;Lubaczów, powiat lubaczowski, województwo podkarpackie, 37-600, Polska;50.1574;23.1226;5.6;0.133
+372;Lubań;Lubań, powiat lubański, województwo dolnośląskie, 58-900, Polska;51.1181;15.2893;9.8;0.194
+373;Lubartów ;Lubartów, powiat lubartowski, województwo lubelskie, 21-100, Polska;51.4660;22.6053;8.1;0.17
+374;Lubawa ;Lubawa, powiat iławski, województwo warmińsko-mazurskie, Polska;53.5051;19.7494;12.9;0.234
+375;Lubawka ;Lubawka, gmina Lubawka, powiat kamiennogórski, województwo dolnośląskie, 58-420, Polska;50.7071;16.0004;8.8;0.18
+376;Lubień Kujawski ;Lubień Kujawski, gmina Lubień Kujawski, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.4074;19.1602;10.9;0.208
+377;Lubin ;Lubin, powiat lubiński, województwo dolnośląskie, Polska;51.3974;16.2051;10.0;0.197
+378;Lublin ;Lublin, województwo lubelskie, Polska;51.2506;22.5701;7.7;0.164
+379;Lubliniec ;Lubliniec, powiat lubliniecki, województwo śląskie, Polska;50.6690;18.6826;7.7;0.165
+380;Lubniewice ;Lubniewice, gmina Lubniewice, powiat sulęciński, województwo lubuskie, 69-210, Polska;52.5120;15.2441;12.6;0.23
+381;Lubomierz ;Lubomierz, gmina Lubomierz, powiat lwówecki, województwo dolnośląskie, Polska;51.0125;15.5102;9.5;0.191
+382;Luboń ;Luboń, powiat poznański, województwo wielkopolskie, Polska;52.3458;16.8785;11.6;0.217
+383;Lubowidz ;Lubowidz, gmina Lubowidz, powiat żuromiński, województwo mazowieckie, 09-304, Polska;53.1217;19.8408;12.1;0.224
+384;Lubraniec ;Lubraniec, gmina Lubraniec, powiat włocławski, województwo kujawsko-pomorskie, Polska;52.5431;18.8316;11.3;0.213
+385;Lubsko ;Lubsko, gmina Lubsko, powiat żarski, województwo lubuskie, 68-300, Polska;51.7882;14.9721;11.3;0.213
+386;Lubycza Królewska ;Lubycza Królewska, gmina Lubycza Królewska, powiat tomaszowski, województwo lubelskie, Polska;50.3412;23.5197;5.8;0.137
+387;Lututów ;Lututów, gmina Lututów, powiat wieruszowski, województwo łódzkie, 98-360, Polska;51.3712;18.4346;9.1;0.185
+388;Lwówek ;Lwówek, gmina Lwówek, powiat nowotomyski, województwo wielkopolskie, 64-310, Polska;52.4489;16.1804;12.1;0.223
+389;Lwówek Śląski ;Lwówek Śląski, gmina Lwówek Śląski, powiat lwówecki, województwo dolnośląskie, Polska;51.1109;15.5850;9.7;0.193
+390;Łabiszyn ;Łabiszyn, gmina Łabiszyn, powiat żniński, województwo kujawsko-pomorskie, Polska;52.9529;17.9206;12.4;0.228
+391;Łagów ;Łagów, gmina Łagów, powiat kielecki, województwo świętokrzyskie, Polska;50.7755;21.0840;7.2;0.157
+392;Łańcut ;Łańcut, powiat łańcucki, województwo podkarpackie, 37-100, Polska;50.0691;22.2321;5.7;0.134
+393;Łapy ;Łapy, gmina Łapy, powiat białostocki, województwo podlaskie, 18-100, Polska;52.9908;22.8830;11.0;0.209
+394;Łasin ;Łasin, gmina Łasin, powiat grudziądzki, województwo kujawsko-pomorskie, Polska;53.5197;19.0870;13.2;0.237
+395;Łask ;Łask, gmina Łask, powiat łaski, województwo łódzkie, 98-100, Polska;51.5930;19.1335;9.3;0.187
+396;Łaskarzew ;Łaskarzew, powiat garwoliński, województwo mazowieckie, 08-450, Polska;51.7890;21.5922;8.9;0.182
+397;Łaszczów ;Łaszczów, gmina Łaszczów, powiat tomaszowski, województwo lubelskie, 22-650, Polska;50.5326;23.7264;6.1;0.141
+398;Łaziska Górne ;Łaziska Górne, powiat mikołowski, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.1501;18.8391;6.8;0.151
+399;Łazy ;Łazy, gmina Łazy, powiat zawierciański, województwo śląskie, 42-450, Polska;50.4276;19.3948;7.1;0.155
+400;Łeba ;Łeba, powiat lęborski, województwo pomorskie, Polska;54.7585;17.5554;16.3;0.275
+401;Łęczna ;Łęczna, gmina Łęczna, powiat łęczyński, województwo lubelskie, Polska;51.3003;22.8868;7.7;0.165
+402;Łęczyca ;Łęczyca, powiat łęczycki, województwo łódzkie, Polska;52.0594;19.2016;10.2;0.199
+403;Łęknica ;Łęknica, powiat żarski, województwo lubuskie, 68-208, Polska;51.5382;14.7445;10.9;0.208
+404;Łobez ;Łobez, gmina Łobez, powiat łobeski, województwo zachodniopomorskie, 73-150, Polska;53.6391;15.6213;14.7;0.256
+405;Łobżenica ;Łobżenica, gmina Łobżenica, powiat pilski, województwo wielkopolskie, 89-310, Polska;53.2603;17.2548;13.3;0.239
+406;Łochów ;Łochów, gmina Łochów, powiat węgrowski, województwo mazowieckie, Polska;52.5304;21.6853;10.4;0.201
+407;Łomianki ;Łomianki, gmina Łomianki, powiat warszawski zachodni, województwo mazowieckie, 05-092, Polska;52.3355;20.8950;10.2;0.199
+408;Łomża ;Łomża, województwo podlaskie, Polska;53.1751;22.0728;11.5;0.217
+409;Łosice ;Łosice, gmina Łosice, powiat łosicki, województwo mazowieckie, 08-200, Polska;52.2115;22.7173;9.5;0.189
+410;Łowicz ;Łowicz, powiat łowicki, województwo łódzkie, Polska;52.1077;19.9448;10.0;0.197
+411;Łódź ;Łódź, województwo łódzkie, Polska;51.7687;19.4570;9.5;0.19
+412;Łuków ;Łuków, powiat łukowski, województwo lubelskie, 21-400, Polska;51.9301;22.3791;9.0;0.183
+413;Maków Mazowiecki ;Maków Mazowiecki, powiat makowski, województwo mazowieckie, 06-200, Polska;52.8657;21.1012;11.2;0.212
+414;Maków Podhalański ;Maków Podhalański, gmina Maków Podhalański, powiat suski, województwo małopolskie, Polska;49.7299;19.6769;5.8;0.136
+415;Malbork ;Malbork, powiat malborski, województwo pomorskie, 82-200, Polska;54.0359;19.0349;14.3;0.251
+416;Małogoszcz ;Małogoszcz, gmina Małogoszcz, powiat jędrzejowski, województwo świętokrzyskie, Polska;50.8123;20.2648;7.5;0.162
+417;Małomice ;Małomice, gmina Małomice, powiat żagański, województwo lubuskie, 67-320, Polska;51.5550;15.4473;10.6;0.205
+418;Margonin ;Margonin, gmina Margonin, powiat chodzieski, województwo wielkopolskie, 64-830, Polska;52.9733;17.0949;12.8;0.232
+419;Marki ;Marki, powiat wołomiński, województwo mazowieckie, Polska;52.3255;21.1055;10.1;0.198
+420;Maszewo ;Maszewo, gmina Maszewo, powiat goleniowski, województwo zachodniopomorskie, 72-130, Polska;53.4962;15.0614;14.7;0.255
+421;Miasteczko Śląskie ;Miasteczko Śląskie, powiat tarnogórski, województwo śląskie, 42-610, Polska;50.4916;18.9230;7.3;0.159
+422;Miastko ;Miastko, gmina Miastko, powiat bytowski, województwo pomorskie, 77-200, Polska;54.0001;16.9775;14.9;0.259
+423;Michałowo ;Michałowo, gmina Michałowo, powiat białostocki, województwo podlaskie, Polska;53.0329;23.6067;10.9;0.208
+424;Miechów ;Miechów, gmina Miechów, powiat miechowski, województwo małopolskie, 32-200, Polska;50.3566;20.0277;6.8;0.151
+425;Miejska Górka ;Miejska Górka, gmina Miejska Górka, powiat rawicki, województwo wielkopolskie, Polska;51.6552;16.9561;10.2;0.199
+426;Mielec ;Mielec, powiat mielecki, województwo podkarpackie, Polska;50.2893;21.4244;6.2;0.143
+427;Mielno ;Mielno, gmina Mielno, powiat koszaliński, województwo zachodniopomorskie, 76-032, Polska;54.2590;16.0540;15.8;0.269
+428;Mieroszów ;Mieroszów, gmina Mieroszów, powiat wałbrzyski, województwo dolnośląskie, 58-350, Polska;50.6670;16.1862;8.6;0.178
+429;Mieszkowice ;Mieszkowice, gmina Mieszkowice, powiat gryfiński, województwo zachodniopomorskie, 74-505, Polska;52.7854;14.4954;13.5;0.241
+430;Międzybórz ;Międzybórz, gmina Międzybórz, powiat oleśnicki, województwo dolnośląskie, 56-413, Polska;51.3977;17.6650;9.4;0.189
+431;Międzychód ;Międzychód, gmina Międzychód, powiat międzychodzki, województwo wielkopolskie, 64-400, Polska;52.6046;15.8935;12.5;0.229
+432;Międzylesie ;Międzylesie, gmina Międzylesie, powiat kłodzki, województwo dolnośląskie, Polska;50.1480;16.6669;7.5;0.162
+433;Międzyrzec Podlaski ;Międzyrzec Podlaski, powiat bialski, województwo lubelskie, 21-560, Polska;51.9853;22.7842;9.0;0.183
+434;Międzyrzecz ;Międzyrzecz, gmina Międzyrzecz, powiat międzyrzecki, województwo lubuskie, 66-300, Polska;52.4448;15.5786;12.3;0.226
+435;Międzyzdroje ;Międzyzdroje, gmina Międzyzdroje, powiat kamieński, województwo zachodniopomorskie, Polska;53.9283;14.4489;15.8;0.269
+436;Mikołajki ;Mikołajki, gmina Mikołajki, powiat mrągowski, województwo warmińsko-mazurskie, 11-730, Polska;53.7982;21.5772;13.0;0.235
+437;Mikołów ;Mikołów, powiat mikołowski, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.1692;18.9044;6.8;0.151
+438;Mikstat ;Mikstat, gmina Mikstat, powiat ostrzeszowski, województwo wielkopolskie, Polska;51.5315;17.9711;9.6;0.191
+439;Milanówek ;Milanówek, powiat grodziski, województwo mazowieckie, 05-822, Polska;52.1266;20.6641;9.8;0.195
+440;Milicz ;Milicz, gmina Milicz, powiat milicki, województwo dolnośląskie, 56-300, Polska;51.5320;17.2752;9.8;0.194
+441;Miłakowo ;Miłakowo, gmina Miłakowo, powiat ostródzki, województwo warmińsko-mazurskie, Polska;54.0102;20.0711;13.9;0.246
+442;Miłomłyn ;Miłomłyn, gmina Miłomłyn, powiat ostródzki, województwo warmińsko-mazurskie, 14-140, Polska;53.7634;19.8414;13.4;0.24
+443;Miłosław ;Miłosław, gmina Miłosław, powiat wrzesiński, województwo wielkopolskie, Polska;52.2023;17.4892;11.1;0.211
+444;Mińsk Mazowiecki ;Mińsk Mazowiecki, powiat miński, województwo mazowieckie, Polska;52.1796;21.5695;9.7;0.193
+445;Mirosławiec ;Mirosławiec, gmina Mirosławiec, powiat wałecki, województwo zachodniopomorskie, Polska;53.3417;16.0909;13.9;0.246
+446;Mirsk ;Mirsk, gmina Mirsk, powiat lwówecki, województwo dolnośląskie, 59-630, Polska;50.9722;15.3858;9.5;0.19
+447;Mława ;Mława, powiat mławski, województwo mazowieckie, 06-500, Polska;53.1116;20.3832;11.9;0.221
+448;Młynary ;Młynary, gmina Młynary, powiat elbląski, województwo warmińsko-mazurskie, Polska;54.1876;19.7229;14.3;0.252
+449;Modliborzyce ;Modliborzyce, gmina Modliborzyce, powiat janowski, województwo lubelskie, Polska;50.7534;22.3292;6.8;0.152
+450;Mogielnica ;Mogielnica, gmina Mogielnica, powiat grójecki, województwo mazowieckie, Polska;51.6930;20.7234;9.0;0.183
+451;Mogilno ;Mogilno, gmina Mogilno, powiat mogileński, województwo kujawsko-pomorskie, 88-300, Polska;52.6573;17.9501;11.8;0.22
+452;Mońki ;Mońki, gmina Mońki, powiat moniecki, województwo podlaskie, 19-100, Polska;53.4066;22.7984;11.8;0.221
+453;Morawica ;Morawica, gmina Liszki, powiat krakowski, województwo małopolskie, Polska;50.0764;19.7500;6.3;0.144
+454;Morąg ;Morąg, gmina Morąg, powiat ostródzki, województwo warmińsko-mazurskie, 14-300, Polska;53.9120;19.9280;13.7;0.244
+455;Mordy ;Mordy, gmina Mordy, powiat siedlecki, województwo mazowieckie, Polska;52.2107;22.5154;9.5;0.19
+456;Moryń ;Moryń, gmina Moryń, powiat gryfiński, województwo zachodniopomorskie, 74-503, Polska;52.8558;14.3968;13.6;0.243
+457;Mosina ;Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska;52.2456;16.8473;11.4;0.215
+458;Mrągowo ;Mrągowo, powiat mrągowski, województwo warmińsko-mazurskie, 11-700, Polska;53.8661;21.3046;13.2;0.238
+459;Mrocza ;Mrocza, gmina Mrocza, powiat nakielski, województwo kujawsko-pomorskie, 89-115, Polska;53.2438;17.6072;13.1;0.237
+460;Mrozy ;Mrozy, gmina Mrozy, powiat miński, województwo mazowieckie, Polska;52.1656;21.8002;9.6;0.191
+461;Mszana Dolna ;Mszana Dolna, powiat limanowski, województwo małopolskie, 34-730, Polska;49.6780;20.0820;5.6;0.132
+462;Mszczonów ;Mszczonów, gmina Mszczonów, powiat żyrardowski, województwo mazowieckie, Polska;51.9740;20.5127;9.6;0.191
+463;Murowana Goślina ;Murowana Goślina, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska;52.5758;17.0098;12.0;0.222
+464;Muszyna ;Muszyna, gmina Muszyna, powiat nowosądecki, województwo małopolskie, 33-370, Polska;49.3562;20.8967;4.8;0.12
+465;Mysłowice ;Mysłowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2415;19.1415;6.8;0.152
+466;Myszków ;Myszków, powiat myszkowski, województwo śląskie, 42-300, Polska;50.5736;19.3219;7.4;0.16
+467;Myszyniec ;Myszyniec, gmina Myszyniec, powiat ostrołęcki, województwo mazowieckie, 07-430, Polska;53.3832;21.3421;12.2;0.225
+468;Myślenice ;Myślenice, gmina Myślenice, powiat myślenicki, województwo małopolskie, 32-400, Polska;49.8346;19.9384;5.9;0.137
+469;Myślibórz ;Myślibórz, gmina Myślibórz, powiat myśliborski, województwo zachodniopomorskie, 74-300, Polska;52.9248;14.8665;13.6;0.242
+470;Nakło nad Notecią ;Nakło nad Notecią, gmina Nakło nad Notecią, powiat nakielski, województwo kujawsko-pomorskie, Polska;53.1387;17.5999;12.9;0.234
+471;Nałęczów ;Nałęczów, gmina Nałęczów, powiat puławski, województwo lubelskie, 24-140, Polska;51.2876;22.2148;7.8;0.167
+472;Namysłów ;Namysłów, gmina Namysłów, powiat namysłowski, województwo opolskie, Polska;51.0766;17.7186;8.8;0.18
+473;Narol ;Narol, gmina Narol, powiat lubaczowski, województwo podkarpackie, Polska;50.3488;23.3274;5.9;0.137
+474;Nasielsk ;Nasielsk, gmina Nasielsk, powiat nowodworski, województwo mazowieckie, 06-130, Polska;52.5868;20.8130;10.7;0.206
+475;Nekla ;Nekla, gmina Nekla, powiat wrzesiński, województwo wielkopolskie, 62-330, Polska;52.3656;17.4145;11.4;0.215
+476;Nidzica ;Nidzica, gmina Nidzica, powiat nidzicki, województwo warmińsko-mazurskie, Polska;53.3614;20.4276;12.4;0.228
+477;Niemcza ;Niemcza, gmina Niemcza, powiat dzierżoniowski, województwo dolnośląskie, 58-230, Polska;50.7163;16.8350;8.5;0.176
+478;Niemodlin ;Niemodlin, gmina Niemodlin, powiat opolski, województwo opolskie, 49-100, Polska;50.6416;17.6211;8.0;0.17
+479;Niepołomice ;Niepołomice, gmina Niepołomice, powiat wielicki, województwo małopolskie, 32-005, Polska;50.0332;20.2168;6.1;0.141
+480;Nieszawa ;Nieszawa, powiat aleksandrowski, województwo kujawsko-pomorskie, 87-730, Polska;52.8335;18.9011;11.8;0.22
+481;Nisko ;Nisko, gmina Nisko, powiat niżański, województwo podkarpackie, Polska;50.5199;22.1399;6.5;0.146
+482;Nowa Dęba ;Nowa Dęba, gmina Nowa Dęba, powiat tarnobrzeski, województwo podkarpackie, Polska;50.4133;21.7491;6.4;0.145
+483;Nowa Ruda ;Nowa Ruda, powiat kłodzki, województwo dolnośląskie, Polska;50.5792;16.5015;8.4;0.174
+484;Nowa Sarzyna ;Nowa Sarzyna, gmina Nowa Sarzyna, powiat leżajski, województwo podkarpackie, Polska;50.3199;22.3434;6.1;0.14
+485;Nowa Słupia ;Nowa Słupia, gmina Nowa Słupia, powiat kielecki, województwo świętokrzyskie, Polska;50.8640;21.0907;7.4;0.16
+486;Nowa Sól ;Nowa Sól, powiat nowosolski, województwo lubuskie, 67-100, Polska;51.8020;15.7176;11.0;0.209
+487;Nowe ;Nowe, gmina Nowe, powiat świecki, województwo kujawsko-pomorskie, Polska;53.6462;18.7290;13.5;0.242
+488;Nowe Brzesko ;Nowe Brzesko, gmina Nowe Brzesko, powiat proszowicki, województwo małopolskie, Polska;50.1323;20.3767;6.3;0.143
+489;Nowe Miasteczko ;Nowe Miasteczko, gmina Nowe Miasteczko, powiat nowosolski, województwo lubuskie, 67-124, Polska;51.6908;15.7312;10.7;0.207
+490;Nowe Miasto Lubawskie ;Nowe Miasto Lubawskie, powiat nowomiejski, województwo warmińsko-mazurskie, 13-300, Polska;53.4256;19.5936;12.8;0.233
+491;Nowe Miasto nad Pilicą ;Nowe Miasto nad Pilicą, gmina Nowe Miasto nad Pilicą, powiat grójecki, województwo mazowieckie, 26-420, Polska;51.6167;20.5796;8.9;0.182
+492;Nowe Skalmierzyce ;Nowe Skalmierzyce, gmina Nowe Skalmierzyce, powiat ostrowski, województwo wielkopolskie, Polska;51.7109;17.9943;9.9;0.195
+493;Nowe Warpno ;Nowe Warpno, gmina Nowe Warpno, powiat policki, województwo zachodniopomorskie, 72-022, Polska;53.7253;14.2809;15.5;0.265
+494;Nowogard ;Nowogard, gmina Nowogard, powiat goleniowski, województwo zachodniopomorskie, 72-200, Polska;53.6688;15.1226;15.0;0.259
+495;Nowogrodziec ;Nowogrodziec, gmina Nowogrodziec, powiat bolesławiecki, województwo dolnośląskie, 59-730, Polska;51.1971;15.3987;9.9;0.196
+496;Nowogród ;Nowogród, gmina Nowogród, powiat łomżyński, województwo podlaskie, 18-414, Polska;53.2281;21.8798;11.7;0.219
+497;Nowogród Bobrzański ;Nowogród Bobrzański, gmina Nowogród Bobrzański, powiat zielonogórski, województwo lubuskie, 66-010, Polska;51.7986;15.2365;11.2;0.212
+498;Nowy Dwór Gdański ;Nowy Dwór Gdański, gmina Nowy Dwór Gdański, powiat nowodworski, województwo pomorskie, Polska;54.2146;19.1151;14.6;0.255
+499;Nowy Dwór Mazowiecki ;Nowy Dwór Mazowiecki, powiat nowodworski, województwo mazowieckie, Polska;52.4307;20.7155;10.4;0.202
+500;Nowy Korczyn ;Nowy Korczyn, gmina Nowy Korczyn, powiat buski, województwo świętokrzyskie, Polska;50.2994;20.8091;6.4;0.146
+501;Nowy Sącz ;Nowy Sącz, województwo małopolskie, 33-300, Polska;49.6249;20.6913;5.3;0.128
+502;Nowy Staw ;Nowy Staw, gmina Nowy Staw, powiat malborski, województwo pomorskie, Polska;54.1343;19.0087;14.5;0.253
+503;Nowy Targ ;Nowy Targ, powiat nowotarski, województwo małopolskie, Polska;49.4818;20.0305;5.3;0.127
+504;Nowy Tomyśl ;Nowy Tomyśl, gmina Nowy Tomyśl, powiat nowotomyski, województwo wielkopolskie, 64-300, Polska;52.3178;16.1292;11.8;0.22
+505;Nowy Wiśnicz ;Nowy Wiśnicz, gmina Nowy Wiśnicz, powiat bocheński, województwo małopolskie, Polska;49.9153;20.4622;5.9;0.137
+506;Nysa ;Nysa, gmina Nysa, powiat nyski, województwo opolskie, Polska;50.4738;17.3325;7.8;0.167
+507;Oborniki ;Oborniki, gmina Oborniki, powiat obornicki, województwo wielkopolskie, 64-600, Polska;52.6455;16.8100;12.2;0.225
+508;Oborniki Śląskie ;Oborniki Śląskie, gmina Oborniki Śląskie, powiat trzebnicki, województwo dolnośląskie, 55-120, Polska;51.3011;16.9146;9.5;0.19
+509;Obrzycko ;Obrzycko, powiat szamotulski, województwo wielkopolskie, 64-520, Polska;52.7020;16.5301;12.4;0.228
+510;Odolanów ;Odolanów, gmina Odolanów, powiat ostrowski, województwo wielkopolskie, 63-430, Polska;51.5742;17.6735;9.8;0.193
+511;Ogrodzieniec ;Ogrodzieniec, gmina Ogrodzieniec, powiat zawierciański, województwo śląskie, 42-440, Polska;50.4521;19.5214;7.1;0.155
+512;Okonek ;Okonek, gmina Okonek, powiat złotowski, województwo wielkopolskie, Polska;53.5348;16.8516;14.0;0.247
+513;Olecko ;Olecko, gmina Olecko, powiat olecki, województwo warmińsko-mazurskie, 19-401, Polska;54.0398;22.4934;13.2;0.238
+514;Olesno ;Olesno, gmina Olesno, powiat oleski, województwo opolskie, 46-300, Polska;50.8767;18.4219;8.2;0.172
+515;Oleszyce ;Oleszyce, gmina Oleszyce, powiat lubaczowski, województwo podkarpackie, Polska;50.1682;23.0315;5.7;0.134
+516;Oleśnica ;Oleśnica, powiat oleśnicki, województwo dolnośląskie, 56-400, Polska;51.2095;17.3805;9.2;0.186
+517;Oleśnica;Oleśnica, gmina Oleśnica, powiat staszowski, województwo świętokrzyskie, 28-220, Polska;50.4506;21.0638;6.6;0.149
+518;Olkusz ;Olkusz, gmina Olkusz, powiat olkuski, województwo małopolskie, Polska;50.2788;19.5596;6.8;0.151
+519;Olsztyn ;Olsztyn, województwo warmińsko-mazurskie, Polska;53.7767;20.4765;13.2;0.238
+520;Olsztynek ;Olsztynek, gmina Olsztynek, powiat olsztyński, województwo warmińsko-mazurskie, 11-015, Polska;53.5834;20.2816;12.9;0.234
+521;Olszyna ;Olszyna, gmina Olszyna, powiat lubański, województwo dolnośląskie, Polska;51.0656;15.3753;9.7;0.193
+522;Oława ;Oława, powiat oławski, województwo dolnośląskie, 55-200, Polska;50.9432;17.2957;8.7;0.179
+523;Opalenica ;Opalenica, gmina Opalenica, powiat nowotomyski, województwo wielkopolskie, 64-330, Polska;52.3088;16.4124;11.7;0.219
+524;Opatowiec ;Opatowiec, gmina Opatowiec, powiat kazimierski, województwo świętokrzyskie, Polska;50.2426;20.7238;6.4;0.145
+525;Opatów ;Opatów, gmina Opatów, powiat opatowski, województwo świętokrzyskie, 27-500, Polska;50.8018;21.4238;7.2;0.157
+526;Opatówek ;Opatówek, gmina Opatówek, powiat kaliski, województwo wielkopolskie, 62-860, Polska;51.7394;18.2137;9.9;0.195
+527;Opoczno ;Opoczno, gmina Opoczno, powiat opoczyński, województwo łódzkie, Polska;51.3782;20.2932;8.5;0.176
+528;Opole ;Opole, województwo opolskie, Polska;50.6668;17.9236;8.0;0.169
+529;Opole Lubelskie ;Opole Lubelskie, gmina Opole Lubelskie, powiat opolski, województwo lubelskie, Polska;51.1475;21.9664;7.6;0.164
+530;Orneta ;Orneta, gmina Orneta, powiat lidzbarski, województwo warmińsko-mazurskie, 11-130, Polska;54.1156;20.1303;14.1;0.248
+531;Orzesze ;Orzesze, powiat mikołowski, województwo śląskie, Polska;50.1439;18.7746;6.8;0.151
+532;Orzysz ;Orzysz, gmina Orzysz, powiat piski, województwo warmińsko-mazurskie, Polska;53.8098;21.9474;12.9;0.234
+533;Osieczna ;Osieczna, gmina Osieczna, powiat leszczyński, województwo wielkopolskie, Polska;51.9034;16.6762;10.8;0.207
+534;Osiek;Osiek, gmina Osiek, powiat staszowski, województwo świętokrzyskie, Polska;50.5195;21.4426;6.6;0.149
+535;Ostrołęka ;Ostrołęka, województwo mazowieckie, Polska;53.0843;21.5669;11.5;0.216
+536;Ostroróg ;Ostroróg, gmina Ostroróg, powiat szamotulski, województwo wielkopolskie, 64-560, Polska;52.6261;16.4541;12.3;0.226
+537;Ostrowiec Świętokrzyski ;Ostrowiec Świętokrzyski, powiat ostrowiecki, województwo świętokrzyskie, 27-400, Polska;50.9399;21.3874;7.4;0.16
+538;Ostróda ;Ostróda, powiat ostródzki, województwo warmińsko-mazurskie, Polska;53.7029;19.9623;13.3;0.238
+539;Ostrów Lubelski ;Ostrów Lubelski, gmina Ostrów Lubelski, powiat lubartowski, województwo lubelskie, Polska;51.4971;22.8555;8.1;0.17
+540;Ostrów Mazowiecka ;Ostrów Mazowiecka, powiat ostrowski, województwo mazowieckie, 07-300, Polska;52.8000;21.8976;10.8;0.208
+541;Ostrów Wielkopolski ;Ostrów Wielkopolski, powiat ostrowski, województwo wielkopolskie, 63-400, Polska;51.6495;17.8167;9.9;0.195
+542;Ostrzeszów ;Ostrzeszów, gmina Ostrzeszów, powiat ostrzeszowski, województwo wielkopolskie, 63-500, Polska;51.4258;17.9332;9.4;0.188
+543;Ośno Lubuskie ;Ośno Lubuskie, gmina Ośno Lubuskie, powiat słubicki, województwo lubuskie, 69-220, Polska;52.4551;14.8682;12.6;0.23
+544;Oświęcim ;Oświęcim, powiat oświęcimski, województwo małopolskie, Polska;50.0382;19.2214;6.4;0.146
+545;Otmuchów ;Otmuchów, Adama Mickiewicza, Śliwice, Otmuchów, gmina Otmuchów, powiat nyski, województwo opolskie, 48-385, Polska;50.4655;17.1324;7.9;0.168
+546;Otwock ;Otwock, powiat otwocki, województwo mazowieckie, Polska;52.1041;21.2681;9.6;0.192
+547;Otyń ;Otyń, gmina Otyń, powiat nowosolski, województwo lubuskie, 67-106, Polska;51.8473;15.7104;11.1;0.211
+548;Ozimek ;Ozimek, gmina Ozimek, powiat opolski, województwo opolskie, Polska;50.6789;18.2125;7.9;0.168
+549;Ozorków ;Ozorków, powiat zgierski, województwo łódzkie, 95-035, Polska;51.9636;19.2918;10.0;0.196
+550;Ożarów ;Ożarów, gmina Ożarów, powiat opatowski, województwo świętokrzyskie, Polska;50.8864;21.6656;7.2;0.158
+551;Ożarów Mazowiecki ;Ożarów Mazowiecki, gmina Ożarów Mazowiecki, powiat warszawski zachodni, województwo mazowieckie, 05-850, Polska;52.2081;20.7942;10.0;0.196
+552;Pabianice ;Pabianice, powiat pabianicki, województwo łódzkie, 95-200, Polska;51.6640;19.3535;9.4;0.188
+553;Pacanów ;Pacanów, gmina Pacanów, powiat buski, województwo świętokrzyskie, Polska;50.4000;21.0410;6.5;0.147
+554;Paczków ;Paczków, gmina Paczków, powiat nyski, województwo opolskie, Polska;50.4637;17.0058;8.0;0.168
+555;Pajęczno ;Pajęczno, gmina Pajęczno, powiat pajęczański, województwo łódzkie, 98-330, Polska;51.1469;18.9957;8.5;0.176
+556;Pakość ;Pakość, gmina Pakość, powiat inowrocławski, województwo kujawsko-pomorskie, Polska;52.8073;18.0900;12.0;0.223
+557;Parczew ;Parczew, gmina Parczew, powiat parczewski, województwo lubelskie, 21-200, Polska;51.6390;22.9000;8.3;0.174
+558;Pasłęk ;Pasłęk, gmina Pasłęk, powiat elbląski, województwo warmińsko-mazurskie, 14-400, Polska;54.0626;19.6565;14.1;0.249
+559;Pasym ;Pasym, gmina Pasym, powiat szczycieński, województwo warmińsko-mazurskie, 12-130, Polska;53.6522;20.7917;12.9;0.234
+560;Pelplin ;Pelplin, gmina Pelplin, powiat tczewski, województwo pomorskie, 83-130, Polska;53.9278;18.6985;14.1;0.249
+561;Pełczyce ;Pełczyce, gmina Pełczyce, powiat choszczeński, województwo zachodniopomorskie, 73-260, Polska;53.0422;15.3059;13.6;0.243
+562;Piaseczno ;Piaseczno, gmina Piaseczno, powiat piaseczyński, województwo mazowieckie, Polska;52.0747;21.0271;9.6;0.192
+563;Piaski;Piaski, gmina Piaski, powiat świdnicki, województwo lubelskie, Polska;51.1378;22.8475;7.4;0.16
+564;Piastów ;Piastów, powiat pruszkowski, województwo mazowieckie, Polska;52.1813;20.8416;9.9;0.195
+565;Piątek;Piątek, gmina Piątek, powiat łęczycki, województwo łódzkie, Polska;52.0690;19.4800;10.1;0.198
+566;Piechowice ;Piechowice, powiat karkonoski, województwo dolnośląskie, Polska;50.8495;15.5976;9.2;0.186
+567;Piekary Śląskie ;Piekary Śląskie, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3840;18.9456;7.1;0.156
+568;Pieniężno ;Pieniężno, gmina Pieniężno, powiat braniewski, województwo warmińsko-mazurskie, Polska;54.2386;20.1258;14.3;0.251
+569;Pieńsk ;Pieńsk, gmina Pieńsk, powiat zgorzelecki, województwo dolnośląskie, 59-930, Polska;51.2458;15.0450;10.2;0.199
+570;Pierzchnica ;Pierzchnica, gmina Pierzchnica, powiat kielecki, województwo świętokrzyskie, 26-015, Polska;50.6974;20.7544;7.1;0.157
+571;Pieszyce ;Pieszyce, gmina Pieszyce, powiat dzierżoniowski, województwo dolnośląskie, 58-250, Polska;50.7124;16.5816;8.6;0.177
+572;Pilawa;Pilawa, gmina Pilawa, powiat garwoliński, województwo mazowieckie, Polska;51.9595;21.5272;9.3;0.187
+573;Pilica;Pilica, gmina Pilica, powiat zawierciański, województwo śląskie, Polska;50.4681;19.6574;7.1;0.155
+574;Pilzno;Pilzno, gmina Pilzno, powiat dębicki, województwo podkarpackie, 39-220, Polska;49.9786;21.2908;5.8;0.135
+575;Piła;Piła, powiat pilski, województwo wielkopolskie, 64-920, Polska;53.1511;16.7380;13.3;0.238
+576;Piława Górna ;Piława Górna, powiat dzierżoniowski, województwo dolnośląskie, 58-240, Polska;50.6829;16.7511;8.4;0.175
+577;Pińczów ;Pińczów, gmina Pińczów, powiat pińczowski, województwo świętokrzyskie, Polska;50.5202;20.5256;6.9;0.153
+578;Pionki ;Pionki, powiat radomski, województwo mazowieckie, Polska;51.4730;21.4438;8.4;0.174
+579;Piotrków Kujawski ;Piotrków Kujawski, gmina Piotrków Kujawski, powiat radziejowski, województwo kujawsko-pomorskie, 88-230, Polska;52.5506;18.4987;11.4;0.215
+580;Piotrków Trybunalski ;Piotrków Trybunalski, województwo łódzkie, 97-300, Polska;51.4083;19.6961;8.8;0.18
+581;Pisz ;Pisz, gmina Pisz, powiat piski, województwo warmińsko-mazurskie, 12-200, Polska;53.6295;21.8098;12.6;0.23
+582;Piwniczna-Zdrój ;Piwniczna-Zdrój, gmina Piwniczna-Zdrój, powiat nowosądecki, województwo małopolskie, 33-350, Polska;49.4406;20.7142;5.0;0.123
+583;Pleszew ;Pleszew, gmina Pleszew, powiat pleszewski, województwo wielkopolskie, 63-300, Polska;51.8961;17.7866;10.3;0.201
+584;Płock ;Płock, województwo mazowieckie, Polska;52.5465;19.7009;11.0;0.209
+585;Płońsk ;Płońsk, powiat płoński, województwo mazowieckie, 09-100, Polska;52.6227;20.3705;10.9;0.209
+586;Płoty ;Płoty, gmina Płoty, powiat gryficki, województwo zachodniopomorskie, 72-310, Polska;53.8031;15.2664;15.2;0.262
+587;Pniewy ;Pniewy, gmina Pniewy, powiat szamotulski, województwo wielkopolskie, Polska;52.5090;16.2566;12.1;0.224
+588;Pobiedziska ;Pobiedziska, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, Polska;52.4773;17.2870;11.7;0.219
+589;Poddębice ;Poddębice, gmina Poddębice, powiat poddębicki, województwo łódzkie, 91-200, Polska;51.8932;18.9517;9.9;0.196
+590;Podkowa Leśna ;Podkowa Leśna, powiat grodziski, województwo mazowieckie, 05-807, Polska;52.1218;20.7296;9.8;0.194
+591;Pogorzela ;Pogorzela, gmina Pogorzela, powiat gostyński, województwo wielkopolskie, Polska;51.8224;17.2310;10.4;0.202
+592;Polanica-Zdrój ;Polanica-Zdrój, powiat kłodzki, województwo dolnośląskie, 57-320, Polska;50.3989;16.5062;8.0;0.169
+593;Polanów ;Polanów, gmina Polanów, powiat koszaliński, województwo zachodniopomorskie, Polska;54.1192;16.6872;15.3;0.263
+594;Police ;Police, gmina Police, powiat policki, województwo zachodniopomorskie, Polska;53.5486;14.5657;15.0;0.259
+595;Polkowice ;Polkowice, gmina Polkowice, powiat polkowicki, województwo dolnośląskie, Polska;51.5039;16.0713;10.2;0.2
+596;Połaniec ;Połaniec, gmina Połaniec, powiat staszowski, województwo świętokrzyskie, 28-230, Polska;50.4329;21.2810;6.5;0.147
+597;Połczyn-Zdrój ;Połczyn-Zdrój, gmina Połczyn-Zdrój, powiat świdwiński, województwo zachodniopomorskie, 78-320, Polska;53.7649;16.0953;14.8;0.257
+598;Poniatowa ;Poniatowa, gmina Poniatowa, powiat opolski, województwo lubelskie, Polska;51.1930;22.0650;7.7;0.165
+599;Poniec ;Poniec, gmina Poniec, powiat gostyński, województwo wielkopolskie, 64-125, Polska;51.7650;16.8060;10.5;0.203
+600;Poręba ;Poręba, powiat zawierciański, województwo śląskie, 42-480, Polska;50.4876;19.3379;7.2;0.157
+601;Poznań ;Poznań, województwo wielkopolskie, Polska;52.4083;16.9335;11.7;0.219
+602;Prabuty ;Prabuty, gmina Prabuty, powiat kwidzyński, województwo pomorskie, 82-550, Polska;53.7560;19.2044;13.6;0.243
+603;Praszka ;Praszka, gmina Praszka, powiat oleski, województwo opolskie, Polska;51.0554;18.4485;8.5;0.176
+604;Prochowice ;Prochowice, gmina Prochowice, powiat legnicki, województwo dolnośląskie, 59-230, Polska;51.2734;16.3644;9.7;0.192
+605;Proszowice ;Proszowice, gmina Proszowice, powiat proszowicki, województwo małopolskie, Polska;50.1926;20.2918;6.4;0.145
+606;Prószków ;Prószków, gmina Prószków, powiat opolski, województwo opolskie, Polska;50.5787;17.8700;7.8;0.167
+607;Pruchnik ;Pruchnik, gmina Pruchnik, powiat jarosławski, województwo podkarpackie, 37-560, Polska;49.9061;22.5161;5.3;0.128
+608;Prudnik ;Prudnik, gmina Prudnik, powiat prudnicki, województwo opolskie, 48-200, Polska;50.3217;17.5801;7.5;0.162
+609;Prusice ;Prusice, okres Praha-východ, Středočeský kraj, Střední Čechy, 28163, Česká republika;49.9684;14.8779;7.9;0.168
+610;Pruszcz Gdański ;Pruszcz Gdański, powiat gdański, województwo pomorskie, 83-000, Polska;54.2609;18.6462;14.9;0.258
+611;Pruszków ;Pruszków, powiat pruszkowski, województwo mazowieckie, Polska;52.1626;20.8080;9.9;0.195
+612;Przasnysz ;Przasnysz, powiat przasnyski, województwo mazowieckie, Polska;53.0190;20.8804;11.6;0.217
+613;Przecław ;Przecław, gmina Przecław, powiat mielecki, województwo podkarpackie, 39-320, Polska;50.1939;21.4799;6.1;0.14
+614;Przedbórz ;Przedbórz, gmina Przedbórz, powiat radomszczański, województwo łódzkie, Polska;51.0868;19.8744;8.1;0.171
+615;Przedecz ;Przedecz, gmina Przedecz, powiat kolski, województwo wielkopolskie, Polska;52.3342;18.8985;10.8;0.207
+616;Przemków ;Przemków, gmina Przemków, powiat polkowicki, województwo dolnośląskie, 59-170, Polska;51.5275;15.7874;10.4;0.202
+617;Przemyśl ;Przemyśl, województwo podkarpackie, Polska;49.7822;22.7693;5.1;0.124
+618;Przeworsk ;Przeworsk, powiat przeworski, województwo podkarpackie, 37-200, Polska;50.0602;22.4924;5.6;0.133
+619;Przysucha ;Przysucha, gmina Przysucha, powiat przysuski, województwo mazowieckie, 26-400, Polska;51.3585;20.6285;8.4;0.175
+620;Pszczyna ;Pszczyna, gmina Pszczyna, powiat pszczyński, województwo śląskie, 43-200, Polska;49.9778;18.9425;6.4;0.146
+621;Pszów ;Pszów, powiat wodzisławski, województwo śląskie, 44-370, Polska;50.0396;18.3949;6.7;0.15
+622;Puck ;Puck, powiat pucki, województwo pomorskie, 84-100, Polska;54.7204;18.4113;15.9;0.27
+623;Puławy ;Puławy, powiat puławski, województwo lubelskie, 24-111, Polska;51.4172;21.9721;8.1;0.171
+624;Pułtusk ;Pułtusk, gmina Pułtusk, powiat pułtuski, województwo mazowieckie, 06-100, Polska;52.7051;21.0840;10.9;0.208
+625;Puszczykowo ;Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska;52.2884;16.8596;11.5;0.216
+626;Pyrzyce ;Pyrzyce, gmina Pyrzyce, powiat pyrzycki, województwo zachodniopomorskie, 74-200, Polska;53.1457;14.8927;14.0;0.248
+627;Pyskowice ;Pyskowice, powiat gliwicki, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 44-120, Polska;50.3981;18.6277;7.3;0.158
+628;Pyzdry ;Pyzdry, gmina Pyzdry, powiat wrzesiński, województwo wielkopolskie, 62-310, Polska;52.1694;17.6871;10.9;0.209
+629;Rabka-Zdrój ;Rabka-Zdrój, gmina Rabka-Zdrój, powiat nowotarski, województwo małopolskie, 34-700, Polska;49.6077;19.9623;5.5;0.131
+630;Raciąż ;Raciąż, powiat płoński, województwo mazowieckie, 09-140, Polska;52.7811;20.1181;11.3;0.214
+631;Racibórz ;Racibórz, powiat raciborski, województwo śląskie, Polska;50.0917;18.2197;6.9;0.152
+632;Radków ;Radków, gmina Radków, powiat kłodzki, województwo dolnośląskie, 57-420, Polska;50.5042;16.4014;8.3;0.173
+633;Radlin ;Radlin, powiat wodzisławski, województwo śląskie, Polska;50.0487;18.4791;6.7;0.15
+634;Radłów ;Radłów, gmina Radłów, powiat tarnowski, województwo małopolskie, 33-130, Polska;50.0831;20.8477;6.0;0.14
+635;Radom ;Radom, województwo mazowieckie, Polska;51.4023;21.1542;8.3;0.174
+636;Radomsko ;Radomsko, powiat radomszczański, województwo łódzkie, Polska;51.0675;19.4446;8.2;0.172
+637;Radomyśl Wielki ;Radomyśl Wielki, gmina Radomyśl Wielki, powiat mielecki, województwo podkarpackie, 39-310, Polska;50.1964;21.2762;6.1;0.141
+638;Radoszyce ;Radoszyce, gmina Radoszyce, powiat konecki, województwo świętokrzyskie, Polska;51.0737;20.2598;8.0;0.169
+639;Radymno ;Radymno, powiat jarosławski, województwo podkarpackie, Polska;49.9517;22.8183;5.3;0.129
+640;Radziejów ;Radziejów, powiat radziejowski, województwo kujawsko-pomorskie, 88-200, Polska;52.6251;18.5269;11.5;0.217
+641;Radzionków ;Radzionków, powiat tarnogórski, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 41-922, Polska;50.4003;18.9026;7.2;0.157
+642;Radzymin ;Radzymin, gmina Radzymin, powiat wołomiński, województwo mazowieckie, 05-250, Polska;52.4176;21.1808;10.3;0.2
+643;Radzyń Chełmiński ;Radzyń Chełmiński, gmina Radzyń Chełmiński, powiat grudziądzki, województwo kujawsko-pomorskie, 87-220, Polska;53.3850;18.9352;12.9;0.234
+644;Radzyń Podlaski ;Radzyń Podlaski, powiat radzyński, województwo lubelskie, Polska;51.7827;22.6209;8.7;0.178
+645;Rajgród ;Rajgród, gmina Rajgród, powiat grajewski, województwo podlaskie, 19-206, Polska;53.7305;22.6976;12.5;0.229
+646;Rakoniewice ;Rakoniewice, gmina Rakoniewice, powiat grodziski, województwo wielkopolskie, Polska;52.1393;16.2739;11.4;0.215
+647;Raszków ;Raszków, gmina Raszków, powiat ostrowski, województwo wielkopolskie, 63-440, Polska;51.7182;17.7277;10.0;0.197
+648;Rawa Mazowiecka ;Rawa Mazowiecka, powiat rawski, województwo łódzkie, 96-200, Polska;51.7625;20.2519;9.3;0.187
+649;Rawicz ;Rawicz, gmina Rawicz, powiat rawicki, województwo wielkopolskie, 63-900, Polska;51.6102;16.8584;10.1;0.199
+650;Recz ;Recz, gmina Recz, powiat choszczeński, województwo zachodniopomorskie, 73-210, Polska;53.2602;15.5468;14.0;0.247
+651;Reda;Reda, powiat wejherowski, województwo pomorskie, 84-240, Polska;54.6043;18.3505;15.7;0.268
+652;Rejowiec ;Rejowiec, gmina Rejowiec, powiat chełmski, województwo lubelskie, 22-360, Polska;51.0945;23.2833;7.2;0.158
+653;Rejowiec Fabryczny ;Rejowiec Fabryczny, powiat chełmski, województwo lubelskie, 22-170, Polska;51.1192;23.2467;7.3;0.158
+654;Resko ;Resko, gmina Resko, powiat łobeski, województwo zachodniopomorskie, 72-315, Polska;53.7734;15.4056;15.1;0.261
+655;Reszel ;Reszel, gmina Reszel, powiat kętrzyński, województwo warmińsko-mazurskie, Polska;54.0483;21.1422;13.6;0.243
+656;Rogoźno ;Rogoźno, gmina Rogoźno, powiat obornicki, województwo wielkopolskie, Polska;52.7523;16.9936;12.3;0.227
+657;Ropczyce ;Ropczyce, gmina Ropczyce, powiat ropczycko-sędziszowski, województwo podkarpackie, 39-100, Polska;50.0529;21.6116;5.8;0.136
+658;Różan ;Różan, gmina Różan, powiat makowski, województwo mazowieckie, 06-230, Polska;52.8886;21.3965;11.1;0.212
+659;Ruciane-Nida ;Ruciane-Nida, gmina Ruciane-Nida, powiat piski, województwo warmińsko-mazurskie, Polska;53.6504;21.5598;12.7;0.231
+660;Ruda Śląska ;Ruda Śląska, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2858;18.8748;7.0;0.154
+661;Rudnik nad Sanem ;Rudnik nad Sanem, gmina Rudnik nad Sanem, powiat niżański, województwo podkarpackie, 37-420, Polska;50.4448;22.2439;6.3;0.144
+662;Rumia ;Rumia, powiat wejherowski, województwo pomorskie, 84-230, Polska;54.5700;18.3969;15.6;0.267
+663;Rybnik ;Rybnik, województwo śląskie, Polska;50.0956;18.5420;6.8;0.151
+664;Rychwał ;Rychwał, gmina Rychwał, powiat koniński, województwo wielkopolskie, Polska;52.0706;18.1668;10.5;0.204
+665;Rydułtowy ;Rydułtowy, powiat wodzisławski, województwo śląskie, 44-280, Polska;50.0584;18.4172;6.7;0.15
+666;Rydzyna ;Rydzyna, gmina Rydzyna, powiat leszczyński, województwo wielkopolskie, 64-130, Polska;51.7864;16.6673;10.6;0.204
+667;Ryglice ;Ryglice, gmina Ryglice, powiat tarnowski, województwo małopolskie, 33-160, Polska;49.8783;21.1380;5.6;0.133
+668;Ryki ;Ryki, gmina Ryki, powiat rycki, województwo lubelskie, 08-500, Polska;51.6267;21.9357;8.5;0.177
+669;Rymanów ;Rymanów, gmina Rymanów, powiat krośnieński, województwo podkarpackie, 38-480, Polska;49.5761;21.8676;4.9;0.122
+670;Ryn ;Ryn, gmina Ryn, powiat giżycki, województwo warmińsko-mazurskie, Polska;53.9387;21.5441;13.3;0.239
+671;Rypin ;Rypin, powiat rypiński, województwo kujawsko-pomorskie, 87-500, Polska;53.0673;19.4060;12.1;0.224
+672;Rzepin ;Rzepin, gmina Rzepin, powiat słubicki, województwo lubuskie, Polska;52.3443;14.8383;12.4;0.228
+673;Rzeszów ;Rzeszów, województwo podkarpackie, Polska;50.0375;22.0047;5.7;0.134
+674;Rzgów ;Rzgów, gmina Rzgów, powiat łódzki wschodni, województwo łódzkie, 95-030, Polska;51.6626;19.4908;9.3;0.187
+675;Sandomierz ;Sandomierz, powiat sandomierski, województwo świętokrzyskie, 27-609, Polska;50.6793;21.7495;6.8;0.152
+676;Sanniki ;Sanniki, gmina Sanniki, powiat gostyniński, województwo mazowieckie, 09-540, Polska;52.3309;19.8669;10.5;0.203
+677;Sanok ;Sanok, powiat sanocki, województwo podkarpackie, Polska;49.5609;22.2070;4.8;0.12
+678;Sejny ;Sejny, powiat sejneński, województwo podlaskie, 16-500, Polska;54.1057;23.3497;13.2;0.237
+679;Serock ;Serock, gmina Serock, powiat legionowski, województwo mazowieckie, 05-140, Polska;52.5135;21.0731;10.5;0.203
+680;Sędziszów ;Sędziszów, gmina Sędziszów, powiat jędrzejowski, województwo świętokrzyskie, 28-340, Polska;50.5648;20.0538;7.1;0.156
+681;Sędziszów Małopolski ;Sędziszów Małopolski, gmina Sędziszów Małopolski, powiat ropczycko-sędziszowski, województwo podkarpackie, 39-120, Polska;50.0716;21.7008;5.8;0.136
+682;Sępopol ;Sępopol, gmina Sępopol, powiat bartoszycki, województwo warmińsko-mazurskie, Polska;54.2647;21.0146;14.1;0.249
+683;Sępólno Krajeńskie ;Sępólno Krajeńskie, gmina Sępólno Krajeńskie, powiat sępoleński, województwo kujawsko-pomorskie, 89-400, Polska;53.4547;17.5348;13.6;0.242
+684;Sianów ;Sianów, gmina Sianów, powiat koszaliński, województwo zachodniopomorskie, 75-000, Polska;54.2282;16.2943;15.7;0.267
+685;Siechnice ;Siechnice, gmina Siechnice, powiat wrocławski, województwo dolnośląskie, 55-011, Polska;51.0324;17.1507;8.9;0.182
+686;Siedlce ;Siedlce, województwo mazowieckie, Polska;52.1664;22.2765;9.5;0.19
+687;Siedliszcze ;Siedliszcze, gmina Siedliszcze, powiat chełmski, województwo lubelskie, 22-130, Polska;51.1946;23.1648;7.4;0.161
+688;Siemianowice Śląskie ;Siemianowice Śląskie, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3052;19.0276;7.0;0.154
+689;Siemiatycze ;Siemiatycze, powiat siemiatycki, województwo podlaskie, 17-300, Polska;52.4279;22.8627;9.8;0.195
+690;Sieniawa ;Sieniawa, gmina Sieniawa, powiat przeworski, województwo podkarpackie, Polska;50.1781;22.6102;5.8;0.135
+691;Sieradz ;Sieradz, powiat sieradzki, województwo łódzkie, 98-200, Polska;51.5942;18.7379;9.4;0.189
+692;Sieraków ;Sieraków, gmina Sieraków, powiat międzychodzki, województwo wielkopolskie, 64-410, Polska;52.6517;16.0808;12.5;0.229
+693;Sierpc ;Sierpc, powiat sierpecki, województwo mazowieckie, 09-200, Polska;52.8529;19.6675;11.6;0.218
+694;Siewierz ;Siewierz, gmina Siewierz, powiat będziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 42-470, Polska;50.4710;19.2319;7.2;0.157
+695;Skalbmierz ;Skalbmierz, gmina Skalbmierz, powiat kazimierski, województwo świętokrzyskie, 28-530, Polska;50.3171;20.3997;6.6;0.148
+696;Skała;Skała, gmina Skała, powiat krakowski, województwo małopolskie, Polska;50.2304;19.8535;6.6;0.148
+697;Skarszewy ;Skarszewy, gmina Skarszewy, powiat starogardzki, województwo pomorskie, 83-250, Polska;54.0718;18.4460;14.5;0.254
+698;Skaryszew ;Skaryszew, gmina Skaryszew, powiat radomski, województwo mazowieckie, 26-640, Polska;51.3106;21.2524;8.1;0.171
+699;Skarżysko-Kamienna ;Skarżysko-Kamienna, powiat skarżyski, województwo świętokrzyskie, 26-110, Polska;51.1139;20.8579;7.9;0.167
+700;Skawina ;Skawina, gmina Skawina, powiat krakowski, województwo małopolskie, Polska;49.9748;19.8266;6.2;0.141
+701;Skępe ;Skępe, gmina Skępe, powiat lipnowski, województwo kujawsko-pomorskie, 87-630, Polska;52.8672;19.3465;11.7;0.219
+702;Skierniewice ;Skierniewice, województwo łódzkie, 96-100, Polska;51.9569;20.1430;9.7;0.192
+703;Skoczów ;Skoczów, gmina Skoczów, powiat cieszyński, województwo śląskie, 43-430, Polska;49.7999;18.7878;6.2;0.142
+704;Skoki;Skoki, gmina Skoki, powiat wągrowiecki, województwo wielkopolskie, 62-085, Polska;52.6726;17.1531;12.1;0.224
+705;Skórcz ;Skórcz, powiat starogardzki, województwo pomorskie, 83-220, Polska;53.7946;18.5243;13.9;0.247
+706;Skwierzyna ;Skwierzyna, gmina Skwierzyna, powiat międzyrzecki, województwo lubuskie, 66-440, Polska;52.5967;15.5011;12.6;0.231
+707;Sława;Sława, gmina Sława, powiat wschowski, województwo lubuskie, 67-410, Polska;51.8807;16.0702;11.0;0.21
+708;Sławków;Sławków, powiat będziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 41-260, Polska;50.2985;19.3898;6.8;0.152
+709;Sławno ;Sławno, powiat sławieński, województwo zachodniopomorskie, 76-100, Polska;54.3630;16.6789;15.8;0.269
+710;Słomniki ;Słomniki, gmina Słomniki, powiat krakowski, województwo małopolskie, 32-090, Polska;50.2404;20.0811;6.5;0.147
+711;Słubice ;Słubice, Akademicka, Słubice, gmina Słubice, powiat słubicki, województwo lubuskie, 69-100, Polska;52.3557;14.5662;12.6;0.230
+712;Słupca ;Słupca, powiat słupecki, województwo wielkopolskie, Polska;52.2873;17.8714;11.1;0.211
+713;Słupsk ;Słupsk, województwo pomorskie, 76-200, Polska;54.4649;17.0281;15.9;0.27
+714;Sobótka;Sobótka, gmina Sobótka, powiat wrocławski, województwo dolnośląskie, 55-050, Polska;50.8991;16.7446;8.8;0.181
+715;Sochaczew ;Sochaczew, powiat sochaczewski, województwo mazowieckie, Polska;52.2297;20.2379;10.2;0.199
+716;Sochocin ;Sochocin, gmina Sochocin, powiat płoński, województwo mazowieckie, 09-110, Polska;52.6899;20.4708;11.0;0.21
+717;Sokołów Małopolski ;Sokołów Małopolski, gmina Sokołów Małopolski, powiat rzeszowski, województwo podkarpackie, 36-050, Polska;50.2312;22.1189;6.0;0.139
+718;Sokołów Podlaski ;Sokołów Podlaski, powiat sokołowski, województwo mazowieckie, 08-300, Polska;52.4082;22.2526;10.0;0.196
+719;Sokółka ;Sokółka, gmina Sokółka, powiat sokólski, województwo podlaskie, Polska;53.4049;23.4996;11.7;0.218
+720;Solec Kujawski ;Solec Kujawski, gmina Solec Kujawski, powiat bydgoski, województwo kujawsko-pomorskie, Polska;53.0792;18.2246;12.5;0.23
+721;Solec nad Wisłą ;Solec nad Wisłą, gmina Solec nad Wisłą, powiat lipski, województwo mazowieckie, Polska;51.1350;21.7654;7.7;0.164
+722;Sompolno ;Sompolno, gmina Sompolno, powiat koniński, województwo wielkopolskie, Polska;52.3884;18.5030;11.1;0.211
+723;Sopot ;Sopot, województwo pomorskie, Polska;54.4448;18.5685;15.3;0.263
+724;Sosnowiec ;Sosnowiec, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2781;19.1343;6.9;0.153
+725;Sośnicowice ;Sośnicowice, gmina Sośnicowice, powiat gliwicki, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 44-153, Polska;50.2723;18.5299;7.1;0.155
+726;Stalowa Wola ;Stalowa Wola, powiat stalowowolski, województwo podkarpackie, Polska;50.5653;22.0644;6.6;0.148
+727;Starachowice ;Starachowice, powiat starachowicki, województwo świętokrzyskie, 27-200, Polska;51.0519;21.0761;7.7;0.165
+728;Stargard ;Stargard, powiat stargardzki, województwo zachodniopomorskie, Polska;53.3380;15.0350;14.3;0.252
+729;Starogard Gdański ;Starogard Gdański, powiat starogardzki, województwo pomorskie, 83-200, Polska;53.9672;18.5321;14.3;0.251
+730;Stary Sącz ;Stary Sącz, gmina Stary Sącz, powiat nowosądecki, województwo małopolskie, 33-340, Polska;49.5640;20.6366;5.2;0.127
+731;Staszów ;Staszów, gmina Staszów, powiat staszowski, województwo świętokrzyskie, 28-200, Polska;50.5612;21.1678;6.8;0.151
+732;Stawiski ;Stawiski, gmina Stawiski, powiat kolneński, województwo podlaskie, Polska;53.3798;22.1549;11.9;0.222
+733;Stawiszyn ;Stawiszyn, gmina Stawiszyn, powiat kaliski, województwo wielkopolskie, Polska;51.9182;18.1115;10.3;0.2
+734;Stąporków ;Stąporków, gmina Stąporków, powiat konecki, województwo świętokrzyskie, 26-220, Polska;51.1380;20.5573;8.0;0.169
+735;Stepnica ;Stepnica, gmina Stepnica, powiat goleniowski, województwo zachodniopomorskie, Polska;53.6515;14.6300;15.2;0.261
+736;Stęszew ;Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, Polska;52.2794;16.6999;11.5;0.216
+737;Stoczek Łukowski ;Stoczek Łukowski, powiat łukowski, województwo lubelskie, Polska;51.9617;21.9697;9.2;0.185
+738;Stopnica ;Stopnica, gmina Stopnica, powiat buski, województwo świętokrzyskie, Polska;50.4383;20.9386;6.6;0.149
+739;Stronie Śląskie ;Stronie Śląskie, gmina Stronie Śląskie, powiat kłodzki, województwo dolnośląskie, Polska;50.2916;16.8737;7.7;0.165
+740;Strumień;Strumień, gmina Strumień, powiat cieszyński, województwo śląskie, 43-246, Polska;49.9172;18.7635;6.4;0.145
+741;Stryków ;Stryków, gmina Stryków, powiat zgierski, województwo łódzkie, Polska;51.9009;19.6037;9.7;0.193
+742;Strzegom ;Strzegom, gmina Strzegom, powiat świdnicki, województwo dolnośląskie, 58-150, Polska;50.9601;16.3462;9.1;0.185
+743;Strzelce Krajeńskie ;Strzelce Krajeńskie, gmina Strzelce Krajeńskie, powiat strzelecko-drezdenecki, województwo lubuskie, 66-500, Polska;52.8785;15.5326;13.2;0.238
+744;Strzelce Opolskie ;Strzelce Opolskie, gmina Strzelce Opolskie, powiat strzelecki, województwo opolskie, 47-100, Polska;50.5109;18.3005;7.6;0.163
+745;Strzelin ;Strzelin, gmina Strzelin, powiat strzeliński, województwo dolnośląskie, 57-100, Polska;50.7809;17.0684;8.5;0.176
+746;Strzelno ;Strzelno, gmina Strzelno, powiat mogileński, województwo kujawsko-pomorskie, 88-320, Polska;52.6302;18.1734;11.7;0.218
+747;Strzyżów ;Strzyżów, gmina Strzyżów, powiat strzyżowski, województwo podkarpackie, 38-100, Polska;49.8702;21.7856;5.4;0.13
+748;Sucha Beskidzka ;Sucha Beskidzka, powiat suski, województwo małopolskie, 34-200, Polska;49.7408;19.5906;5.8;0.136
+749;Suchań ;Suchań, gmina Suchań, powiat stargardzki, województwo zachodniopomorskie, 73-132, Polska;53.2799;15.3188;14.1;0.249
+750;Suchedniów ;Suchedniów, gmina Suchedniów, powiat skarżyski, województwo świętokrzyskie, 26-130, Polska;51.0472;20.8387;7.8;0.165
+751;Suchowola ;Suchowola, gmina Suchowola, powiat sokólski, województwo podlaskie, 16-150, Polska;53.5786;23.1058;12.1;0.224
+752;Sulechów ;Sulechów, gmina Sulechów, powiat zielonogórski, województwo lubuskie, 66-100, Polska;52.0855;15.6259;11.6;0.217
+753;Sulejów ;Sulejów, gmina Sulejów, powiat piotrkowski, województwo łódzkie, Polska;51.3549;19.8891;8.6;0.178
+754;Sulejówek ;Sulejówek, powiat miński, województwo mazowieckie, 05-070, Polska;52.2468;21.2825;9.9;0.195
+755;Sulęcin ;Sulęcin, gmina Sulęcin, powiat sulęciński, województwo lubuskie, 69-200, Polska;52.4414;15.1162;12.5;0.229
+756;Sulmierzyce ;Sulmierzyce, powiat krotoszyński, województwo wielkopolskie, 63-750, Polska;51.6064;17.5278;9.9;0.195
+757;Sułkowice ;Sułkowice, gmina Sułkowice, powiat myślenicki, województwo małopolskie, 32-440, Polska;49.8408;19.8012;5.9;0.138
+758;Supraśl ;Supraśl, gmina Supraśl, powiat białostocki, województwo podlaskie, 16-030, Polska;53.2100;23.3361;11.3;0.214
+759;Suraż ;Suraż, gmina Suraż, powiat białostocki, województwo podlaskie, Polska;52.9492;22.9564;10.9;0.208
+760;Susz ;Susz, gmina Susz, powiat iławski, województwo warmińsko-mazurskie, 14-240, Polska;53.7167;19.3385;13.5;0.241
+761;Suwałki ;Suwałki, województwo podlaskie, Polska;54.0991;22.9279;13.2;0.238
+762;Swarzędz ;Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska;52.4104;17.0771;11.6;0.218
+763;Syców ;Syców, gmina Syców, powiat oleśnicki, województwo dolnośląskie, 56-500, Polska;51.3100;17.7235;9.2;0.186
+764;Szadek ;Szadek, gmina Szadek, powiat zduńskowolski, województwo łódzkie, 98-240, Polska;51.6917;18.9770;9.5;0.19
+765;Szamocin ;Szamocin, gmina Szamocin, powiat chodzieski, województwo wielkopolskie, Polska;53.0295;17.1233;12.9;0.233
+766;Szamotuły ;Szamotuły, gmina Szamotuły, powiat szamotulski, województwo wielkopolskie, 64-500, Polska;52.6120;16.5831;12.2;0.225
+767;Szczawnica ;Szczawnica, gmina Szczawnica, powiat nowotarski, województwo małopolskie, 34-460, Polska;49.4266;20.4761;5.1;0.124
+768;Szczawno-Zdrój ;Szczawno-Zdrój, powiat wałbrzyski, województwo dolnośląskie, 58-310, Polska;50.8067;16.2541;8.9;0.181
+769;Szczebrzeszyn ;Szczebrzeszyn, gmina Szczebrzeszyn, powiat zamojski, województwo lubelskie, Polska;50.6947;22.9787;6.6;0.148
+770;Szczecin ;Szczecin, województwo zachodniopomorskie, Polska;53.4302;14.5510;14.7;0.256
+771;Szczecinek ;Szczecinek, powiat szczecinecki, województwo zachodniopomorskie, 78-400, Polska;53.7080;16.6944;14.4;0.253
+772;Szczekociny ;Szczekociny, gmina Szczekociny, powiat zawierciański, województwo śląskie, 42-445, Polska;50.6259;19.8195;7.3;0.159
+773;Szczucin ;Szczucin, gmina Szczucin, powiat dąbrowski, województwo małopolskie, Polska;50.3090;21.0752;6.4;0.145
+774;Szczuczyn;Szczuczyn, gmina Szczuczyn, powiat grajewski, województwo podlaskie, 19-230, Polska;53.5630;22.2855;12.3;0.226
+775;Szczyrk ;Szczyrk, powiat bielski, województwo śląskie, 43-370, Polska;49.7166;19.0255;6.0;0.138
+776;Szczytna ;Szczytna, gmina Szczytna, powiat kłodzki, województwo dolnośląskie, 57-330, Polska;50.4169;16.4408;8.1;0.17
+777;Szczytno ;Szczytno, powiat szczycieński, województwo warmińsko-mazurskie, Polska;53.5655;20.9916;12.7;0.231
+778;Szepietowo ;Szepietowo, gmina Szepietowo, powiat wysokomazowiecki, województwo podlaskie, Polska;52.8713;22.5474;10.8;0.207
+779;Szklarska Poręba ;Szklarska Poręba, powiat karkonoski, województwo dolnośląskie, Polska;50.8276;15.5212;9.2;0.186
+780;Szlichtyngowa ;Szlichtyngowa, gmina Szlichtyngowa, powiat wschowski, województwo lubuskie, 67-407, Polska;51.7141;16.2446;10.6;0.204
+781;Szprotawa ;Szprotawa, gmina Szprotawa, powiat żagański, województwo lubuskie, 67-300, Polska;51.5651;15.5368;10.6;0.204
+782;Sztum ;Sztum, gmina Sztum, powiat sztumski, województwo pomorskie, 82-400, Polska;53.9199;19.0305;14.0;0.248
+783;Szubin ;Szubin, gmina Szubin, powiat nakielski, województwo kujawsko-pomorskie, 89-200, Polska;53.0118;17.7439;12.6;0.23
+784;Szydłów ;Szydłów, gmina Szydłów, powiat staszowski, województwo świętokrzyskie, 28-225, Polska;50.5908;21.0046;6.9;0.153
+785;Szydłowiec ;Szydłowiec, gmina Szydłowiec, powiat szydłowiecki, województwo mazowieckie, 26-500, Polska;51.2239;20.8575;8.1;0.17
+786;Ścinawa ;Ścinawa, gmina Ścinawa, powiat lubiński, województwo dolnośląskie, 59-330, Polska;51.4165;16.4260;9.9;0.196
+787;Ślesin ;Ślesin, gmina Ślesin, powiat koniński, województwo wielkopolskie, Polska;52.3708;18.3059;11.1;0.211
+788;Śmigiel ;Śmigiel, gmina Śmigiel, powiat kościański, województwo wielkopolskie, Polska;52.0127;16.5271;11.1;0.21
+789;Śrem ;Śrem, gmina Gaworzyce, powiat polkowicki, województwo dolnośląskie, Polska;51.6428;15.9256;10.6;0.204
+790;Środa Śląska ;Środa Śląska, gmina Środa Śląska, powiat średzki, województwo dolnośląskie, 55-300, Polska;51.1639;16.5943;9.4;0.188
+791;Środa Wielkopolska ;Środa Wielkopolska, gmina Środa Wielkopolska, powiat średzki, województwo wielkopolskie, 63-000, Polska;52.2284;17.2778;11.2;0.212
+792;Świątniki Górne ;Świątniki Górne, gmina Świątniki Górne, powiat krakowski, województwo małopolskie, Polska;49.9346;19.9525;6.0;0.14
+793;Świdnica ;Świdnica, powiat świdnicki, województwo dolnośląskie, Polska;50.8425;16.4871;8.8;0.181
+794;Świdnik ;Świdnik, powiat świdnicki, województwo lubelskie, Polska;51.2205;22.6999;7.6;0.163
+795;Świdwin ;Świdwin, powiat świdwiński, województwo zachodniopomorskie, 78-300, Polska;53.7747;15.7774;14.9;0.259
+796;Świebodzice ;Świebodzice, powiat świdnicki, województwo dolnośląskie, 58-160, Polska;50.8596;16.3196;8.9;0.182
+797;Świebodzin ;Świebodzin, gmina Świebodzin, powiat świebodziński, województwo lubuskie, 66-200, Polska;52.2498;15.5325;11.9;0.222
+798;Świecie ;Świecie, gmina Świecie, powiat świecki, województwo kujawsko-pomorskie, 86-101, Polska;53.4073;18.4455;13.1;0.237
+799;Świeradów-Zdrój ;Świeradów-Zdrój, powiat lubański, województwo dolnośląskie, Polska;50.9093;15.3332;9.4;0.189
+800;Świerzawa ;Świerzawa, gmina Świerzawa, powiat złotoryjski, województwo dolnośląskie, Polska;51.0147;15.8949;9.4;0.188
+801;Świętochłowice ;Świętochłowice, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.2855;18.9309;7.0;0.154
+802;Świnoujście ;Świnoujście, województwo zachodniopomorskie, Polska;53.9097;14.2511;15.9;0.27
+803;Tarczyn ;Tarczyn, gmina Tarczyn, powiat piaseczyński, województwo mazowieckie, Polska;51.9803;20.8340;9.5;0.19
+804;Tarnobrzeg ;Tarnobrzeg, województwo podkarpackie, 39-400, Polska;50.5715;21.6705;6.7;0.149
+805;Tarnogród ;Tarnogród, gmina Tarnogród, powiat biłgorajski, województwo lubelskie, Polska;50.3613;22.7419;6.1;0.14
+806;Tarnowskie Góry ;Tarnowskie Góry, powiat tarnogórski, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.4445;18.8555;7.3;0.158
+807;Tarnów ;Tarnów, województwo małopolskie, Polska;50.0124;20.9881;5.9;0.137
+808;Tczew ;Tczew, powiat tczewski, województwo pomorskie, 83-110, Polska;54.0870;18.8000;14.4;0.253
+809;Terespol ;Terespol, powiat bialski, województwo lubelskie, Polska;52.0756;23.6134;9.0;0.183
+810;Tłuszcz;Tłuszcz, gmina Tłuszcz, powiat wołomiński, województwo mazowieckie, 05-240, Polska;52.4302;21.4355;10.2;0.2
+811;Tolkmicko ;Tolkmicko, gmina Tolkmicko, powiat elbląski, województwo warmińsko-mazurskie, Polska;54.3202;19.5270;14.7;0.256
+812;Tomaszów Lubelski ;Tomaszów Lubelski, powiat tomaszowski, województwo lubelskie, 22-600, Polska;50.4573;23.4170;6.1;0.14
+813;Tomaszów Mazowiecki ;Tomaszów Mazowiecki, powiat tomaszowski, województwo łódzkie, 97-200, Polska;51.5317;20.0084;8.9;0.182
+814;Toruń ;Toruń, województwo kujawsko-pomorskie, Polska;53.0103;18.6048;12.3;0.226
+815;Torzym ;Torzym, gmina Torzym, powiat sulęciński, województwo lubuskie, Polska;52.3139;15.0828;12.2;0.226
+816;Toszek ;Toszek, gmina Toszek, powiat gliwicki, województwo śląskie, Polska;50.4551;18.5181;7.4;0.16
+817;Trzcianka ;Trzcianka, gmina Trzcianka, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-980, Polska;53.0418;16.4611;13.1;0.237
+818;Trzciel ;Trzciel, gmina Trzciel, powiat międzyrzecki, województwo lubuskie, Polska;52.3652;15.8732;12.0;0.223
+819;Trzcińsko-Zdrój ;Trzcińsko-Zdrój, gmina Trzcińsko-Zdrój, powiat gryfiński, województwo zachodniopomorskie, Polska;52.9660;14.6076;13.8;0.245
+820;Trzebiatów ;Trzebiatów, gmina Trzebiatów, powiat gryficki, województwo zachodniopomorskie, Polska;54.0627;15.2657;15.8;0.268
+821;Trzebinia ;Trzebinia, gmina Trzebinia, powiat chrzanowski, województwo małopolskie, Polska;50.1598;19.4709;6.6;0.148
+822;Trzebnica ;Trzebnica, gmina Trzebnica, powiat trzebnicki, województwo dolnośląskie, 55-100, Polska;51.3096;17.0626;9.5;0.19
+823;Trzemeszno ;Trzemeszno, gmina Trzemeszno, powiat gnieźnieński, województwo wielkopolskie, 62-240, Polska;52.5601;17.8209;11.6;0.218
+824;Tuchola ;Tuchola, gmina Tuchola, powiat tucholski, województwo kujawsko-pomorskie, 89-500, Polska;53.5881;17.8590;13.7;0.244
+825;Tuchów ;Tuchów, gmina Tuchów, powiat tarnowski, województwo małopolskie, 33-170, Polska;49.8952;21.0538;5.7;0.134
+826;Tuczno ;Tuczno, gmina Tuczno, powiat wałecki, województwo zachodniopomorskie, 78-640, Polska;53.1944;16.1548;13.6;0.242
+827;Tuliszków ;Tuliszków, gmina Tuliszków, powiat turecki, województwo wielkopolskie, Polska;52.0771;18.2949;10.5;0.203
+828;Tułowice ;Tułowice, gmina Tułowice, powiat opolski, województwo opolskie, 49-130, Polska;50.5954;17.6533;8.0;0.168
+829;Turek ;Turek, powiat turecki, województwo wielkopolskie, 62-700, Polska;52.0159;18.5019;10.3;0.201
+830;Tuszyn ;Tuszyn, gmina Tuszyn, powiat łódzki wschodni, województwo łódzkie, 95-080, Polska;51.6031;19.5445;9.2;0.186
+831;Twardogóra ;Twardogóra, gmina Twardogóra, powiat oleśnicki, województwo dolnośląskie, 56-416, Polska;51.3646;17.4696;9.4;0.189
+832;Tychowo ;Tychowo, gmina Tychowo, powiat białogardzki, województwo zachodniopomorskie, Polska;53.9287;16.2567;15.1;0.26
+833;Tychy ;Tychy, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.1144;18.9966;6.6;0.149
+834;Tyczyn ;Tyczyn, gmina Tyczyn, powiat rzeszowski, województwo podkarpackie, 36-020, Polska;49.9638;22.0337;5.5;0.132
+835;Tykocin ;Tykocin, gmina Tykocin, powiat białostocki, województwo podlaskie, 16-080, Polska;53.2076;22.7730;11.4;0.215
+836;Tyszowce ;Tyszowce, gmina Tyszowce, powiat tomaszowski, województwo lubelskie, Polska;50.6172;23.6982;6.3;0.143
+837;Ujazd ;Ujazd, gmina Ujazd, powiat tomaszowski, województwo łódzkie, 97-225, Polska;51.5997;19.9211;9.1;0.184
+838;Ujście;Ujście, gmina Ujście, powiat pilski, województwo wielkopolskie, 64-850, Polska;53.0532;16.7324;13.1;0.236
+839;Ulanów ;Ulanów, gmina Ulanów, powiat niżański, województwo podkarpackie, 37-410, Polska;50.4904;22.2626;6.4;0.145
+840;Uniejów ;Uniejów, gmina Uniejów, powiat poddębicki, województwo łódzkie, Polska;51.9741;18.7932;10.1;0.199
+841;Urzędów ;Urzędów, gmina Urzędów, powiat kraśnicki, województwo lubelskie, Polska;50.9939;22.1436;7.3;0.159
+842;Ustka ;Ustka, powiat słupski, województwo pomorskie, 76-270, Polska;54.5811;16.8613;16.2;0.274
+843;Ustroń ;Ustroń, powiat cieszyński, województwo śląskie, 43-450, Polska;49.7182;18.8028;6.0;0.14
+844;Ustrzyki Dolne ;Ustrzyki Dolne, gmina Ustrzyki Dolne, powiat bieszczadzki, województwo podkarpackie, 38-700, Polska;49.4302;22.5877;4.5;0.115
+845;Wadowice ;Wadowice, gmina Wadowice, powiat wadowicki, województwo małopolskie, 34-100, Polska;49.8834;19.4925;6.1;0.141
+846;Wałbrzych ;Wałbrzych, województwo dolnośląskie, Polska;50.7659;16.2825;8.8;0.18
+847;Wałcz ;Wałcz, powiat wałecki, województwo zachodniopomorskie, 78-600, Polska;53.2697;16.4671;13.6;0.243
+848;Warka ;Warka, gmina Warka, powiat grójecki, województwo mazowieckie, 05-660, Polska;51.7851;21.1834;9.0;0.184
+849;Warszawa ;Warszawa, województwo mazowieckie, Polska;52.2320;21.0067;10.0;0.196
+850;Warta;Warta, Dzigorzewska, Osiedle Dziewiarz, Sieradz, powiat sieradzki, województwo łódzkie, 98-200, Polska;51.6195;18.7220;9.5;0.19
+851;Wasilków ;Wasilków, gmina Wasilków, powiat białostocki, województwo podlaskie, 16-010, Polska;53.1987;23.2057;11.3;0.214
+852;Wąbrzeźno ;Wąbrzeźno, powiat wąbrzeski, województwo kujawsko-pomorskie, 87-200, Polska;53.2800;18.9473;12.7;0.232
+853;Wąchock ;Wąchock, gmina Wąchock, powiat starachowicki, województwo świętokrzyskie, Polska;51.0738;21.0117;7.8;0.165
+854;Wągrowiec ;Wągrowiec, powiat wągrowiecki, województwo wielkopolskie, 62-100, Polska;52.8072;17.1973;12.4;0.227
+855;Wąsosz;Wąsosz, gmina Wąsosz, powiat grajewski, województwo podlaskie, Polska;53.5219;22.3194;12.2;0.225
+856;Wejherowo ;Wejherowo, powiat wejherowski, województwo pomorskie, 84-200M, Polska;54.6026;18.2479;15.7;0.268
+857;Węgliniec ;Węgliniec, gmina Węgliniec, powiat zgorzelecki, województwo dolnośląskie, Polska;51.2871;15.2241;10.2;0.199
+858;Węgorzewo ;Węgorzewo, gmina Węgorzewo, powiat węgorzewski, województwo warmińsko-mazurskie, Polska;54.2138;21.7417;13.8;0.245
+859;Węgorzyno ;Węgorzyno, gmina Węgorzyno, powiat łobeski, województwo zachodniopomorskie, 73-155, Polska;53.5412;15.5602;14.5;0.254
+860;Węgrów ;Węgrów, powiat węgrowski, województwo mazowieckie, 07-100, Polska;52.3989;22.0174;10.0;0.197
+861;Wiązów ;Wiązów, gmina Wiązów, powiat strzeliński, województwo dolnośląskie, 57-120, Polska;50.8139;17.2017;8.5;0.176
+862;Wielbark ;Wielbark, gmina Wielbark, powiat szczycieński, województwo warmińsko-mazurskie, Polska;53.3984;20.9463;12.3;0.227
+863;Wieleń ;Wieleń, gmina Wieleń, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, Polska;52.8943;16.1713;13.0;0.235
+864;Wielichowo ;Wielichowo, gmina Wielichowo, powiat grodziski, województwo wielkopolskie, 64-050, Polska;52.1183;16.3521;11.3;0.214
+865;Wieliczka ;Wieliczka, gmina Wieliczka, powiat wielicki, województwo małopolskie, 32-020, Polska;49.9824;20.0602;6.1;0.141
+866;Wieluń ;Wieluń, gmina Wieluń, powiat wieluński, województwo łódzkie, Polska;51.2205;18.5701;8.8;0.18
+867;Wieruszów ;Wieruszów, gmina Wieruszów, powiat wieruszowski, województwo łódzkie, Polska;51.2952;18.1511;9.1;0.184
+868;Więcbork ;Więcbork, gmina Więcbork, powiat sępoleński, województwo kujawsko-pomorskie, Polska;53.3525;17.4874;13.4;0.24
+869;Wilamowice ;Wilamowice, gmina Wilamowice, powiat bielski, województwo śląskie, 43-330, Polska;49.9167;19.1525;6.3;0.143
+870;Wiskitki ;Wiskitki, gmina Wiskitki, powiat żyrardowski, województwo mazowieckie, Polska;52.0864;20.3929;9.9;0.195
+871;Wisła;Wisła, gmina Iłów, powiat sochaczewski, województwo mazowieckie, 43-450, Polska;52.3807;20.0467;10.5;0.204
+872;Wiślica ;Wiślica, gmina Wiślica, powiat buski, województwo świętokrzyskie, Polska;50.3485;20.6745;6.6;0.148
+873;Witkowo ;Witkowo, gmina Witkowo, powiat gnieźnieński, województwo wielkopolskie, 62-230, Polska;52.4396;17.7725;11.4;0.215
+874;Witnica ;Witnica, gmina Witnica, powiat gorzowski, województwo lubuskie, 66-460, Polska;52.6729;14.8972;13.0;0.236
+875;Wleń ;Wleń, gmina Wleń, powiat lwówecki, województwo dolnośląskie, 59-610, Polska;51.0169;15.6745;9.5;0.19
+876;Władysławowo ;Władysławowo, gmina Władysławowo, powiat pucki, województwo pomorskie, Polska;54.7901;18.4087;16.1;0.272
+877;Włocławek ;Włocławek, województwo kujawsko-pomorskie, Polska;52.6606;19.0721;11.4;0.215
+878;Włodawa ;Włodawa, powiat włodawski, województwo lubelskie, 22-200, Polska;51.5466;23.5532;8.0;0.169
+879;Włoszczowa ;Włoszczowa, gmina Włoszczowa, powiat włoszczowski, województwo świętokrzyskie, 29-100, Polska;50.8521;19.9668;7.7;0.164
+880;Wodzisław ;Wodzisław, gmina Wodzisław, powiat jędrzejowski, województwo świętokrzyskie, Polska;50.5211;20.1909;7.0;0.154
+881;Wodzisław Śląski ;Wodzisław Śląski, powiat wodzisławski, województwo śląskie, Polska;50.0024;18.4630;6.6;0.149
+882;Wojcieszów ;Wojcieszów, powiat złotoryjski, województwo dolnośląskie, 59-550, Polska;50.9559;15.9283;9.3;0.187
+883;Wojkowice ;Wojkowice, powiat będziński, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, 42-580, Polska;50.3653;19.0366;7.1;0.155
+884;Wojnicz ;Wojnicz, gmina Wojnicz, powiat tarnowski, województwo małopolskie, Polska;49.9573;20.8364;5.8;0.137
+885;Wolbórz ;Wolbórz, gmina Wolbórz, powiat piotrkowski, województwo łódzkie, 97-320, Polska;51.5036;19.8303;8.9;0.182
+886;Wolbrom ;Wolbrom, gmina Wolbrom, powiat olkuski, województwo małopolskie, Polska;50.3848;19.7599;6.9;0.153
+887;Wolin;Wolin, gmina Wolin, powiat kamieński, województwo zachodniopomorskie, Polska;53.9132;14.5200;15.8;0.269
+888;Wolsztyn ;Wolsztyn, gmina Wolsztyn, powiat wolsztyński, województwo wielkopolskie, Polska;52.1172;16.1127;11.4;0.215
+889;Wołczyn ;Wołczyn, gmina Wołczyn, powiat kluczborski, województwo opolskie, Polska;51.0190;18.0496;8.6;0.177
+890;Wołomin ;Wołomin, gmina Wołomin, powiat wołomiński, województwo mazowieckie, 05-200, Polska;52.3469;21.2420;10.1;0.198
+891;Wołów ;Wołów, gmina Wołów, powiat wołowski, województwo dolnośląskie, 56-100, Polska;51.3364;16.6487;9.7;0.193
+892;Woźniki ;Woźniki, gmina Woźniki, powiat lubliniecki, województwo śląskie, 42-289, Polska;50.5876;19.0568;7.5;0.161
+893;Wrocław ;Wrocław, województwo dolnośląskie, Polska;51.1090;17.0327;9.1;0.185
+894;Wronki ;Wronki, gmina Wronki, powiat szamotulski, województwo wielkopolskie, 64-510, Polska;52.7101;16.3742;12.5;0.229
+895;Września ;Września, gmina Września, powiat wrzesiński, województwo wielkopolskie, 62-300, Polska;52.3251;17.5652;11.3;0.213
+896;Wschowa ;Wschowa, gmina Wschowa, powiat wschowski, województwo lubuskie, 67-400, Polska;51.8038;16.3173;10.7;0.206
+897;Wyrzysk ;Wyrzysk, gmina Wyrzysk, powiat pilski, województwo wielkopolskie, 89-300, Polska;53.1570;17.2627;13.1;0.236
+898;Wysoka ;Wysoka, gmina Wysoka, powiat pilski, województwo wielkopolskie, 89-320, Polska;53.1829;17.0797;13.2;0.237
+899;Wysokie Mazowieckie ;Wysokie Mazowieckie, powiat wysokomazowiecki, województwo podlaskie, 18-200, Polska;52.9155;22.5131;10.9;0.209
+900;Wyszków ;Wyszków, gmina Wyszków, powiat wyszkowski, województwo mazowieckie, Polska;52.5928;21.4585;10.5;0.204
+901;Wyszogród;Wyszogród, gmina Wyszogród, powiat płocki, województwo mazowieckie, Polska;52.3884;20.1913;10.5;0.203
+902;Wyśmierzyce ;Wyśmierzyce, gmina Wyśmierzyce, powiat białobrzeski, województwo mazowieckie, 26-811, Polska;51.6251;20.8119;8.8;0.181
+903;Zabłudów ;Zabłudów, gmina Zabłudów, powiat białostocki, województwo podlaskie, 16-060, Polska;53.0148;23.3380;10.9;0.209
+904;Zabrze ;Zabrze, Górnośląsko-Zagłębiowska Metropolia, województwo śląskie, Polska;50.3086;18.7864;7.1;0.155
+905;Zagórów ;Zagórów, gmina Zagórów, powiat słupecki, województwo wielkopolskie, Polska;52.1690;17.9002;10.8;0.208
+906;Zagórz ;Zagórz, gmina Zagórz, powiat sanocki, województwo podkarpackie, 38-540, Polska;49.5099;22.2633;4.7;0.119
+907;Zakliczyn ;Zakliczyn, gmina Zakliczyn, powiat tarnowski, województwo małopolskie, 32-840, Polska;49.8564;20.8087;5.7;0.134
+908;Zaklików ;Zaklików, gmina Zaklików, powiat stalowowolski, województwo podkarpackie, 37-470, Polska;50.7554;22.1020;6.9;0.153
+909;Zakopane ;Zakopane, powiat tatrzański, województwo małopolskie, Polska;49.2969;19.9507;5.0;0.123
+910;Zakroczym ;Zakroczym, gmina Zakroczym, powiat nowodworski, województwo mazowieckie, 05-170, Polska;52.4334;20.6117;10.5;0.203
+911;Zalewo ;Zalewo, gmina Zalewo, powiat iławski, województwo warmińsko-mazurskie, Polska;53.8459;19.6061;13.7;0.243
+912;Zambrów ;Zambrów, powiat zambrowski, województwo podlaskie, 18-300, Polska;52.9855;22.2412;11.1;0.211
+913;Zamość ;Zamość, województwo lubelskie, Polska;50.7171;23.2526;6.6;0.148
+914;Zator;Zator, gmina Zator, powiat oświęcimski, województwo małopolskie, 32-640, Polska;49.9963;19.4377;6.3;0.144
+915;Zawadzkie ;Zawadzkie, gmina Zawadzkie, powiat strzelecki, województwo opolskie, Polska;50.6066;18.4801;7.7;0.164
+916;Zawichost ;Zawichost, gmina Zawichost, powiat sandomierski, województwo świętokrzyskie, Polska;50.8074;21.8524;7.1;0.155
+917;Zawidów ;Zawidów, powiat zgorzelecki, województwo dolnośląskie, Polska;51.0257;15.0610;9.8;0.193
+918;Zawiercie ;Zawiercie, powiat zawierciański, województwo śląskie, Polska;50.4844;19.4334;7.2;0.157
+919;Ząbki ;Ząbki, powiat wołomiński, województwo mazowieckie, Polska;52.2935;21.1157;10.0;0.197
+920;Ząbkowice Śląskie ;Ząbkowice Śląskie, gmina Ząbkowice Śląskie, powiat ząbkowicki, województwo dolnośląskie, Polska;50.5893;16.8112;8.3;0.173
+921;Zbąszynek ;Zbąszynek, gmina Zbąszynek, powiat świebodziński, województwo lubuskie, Polska;52.2435;15.8139;11.8;0.22
+922;Zbąszyń ;Zbąszyń, gmina Zbąszyń, powiat nowotomyski, województwo wielkopolskie, 64-360, Polska;52.2501;15.9209;11.8;0.22
+923;Zduny ;Zduny, gmina Zduny, powiat krotoszyński, województwo wielkopolskie, 63-760, Polska;51.6463;17.3776;10.0;0.197
+924;Zduńska Wola ;Zduńska Wola, powiat zduńskowolski, województwo łódzkie, Polska;51.5949;18.9501;9.4;0.188
+925;Zdzieszowice ;Zdzieszowice, gmina Zdzieszowice, powiat krapkowicki, województwo opolskie, Polska;50.4203;18.1193;7.5;0.161
+926;Zelów ;Zelów, gmina Zelów, powiat bełchatowski, województwo łódzkie, 97-425, Polska;51.4653;19.2185;9.0;0.183
+927;Zgierz ;Zgierz, powiat zgierski, województwo łódzkie, 95-100, Polska;51.8559;19.4056;9.7;0.193
+928;Zgorzelec ;Zgorzelec, powiat zgorzelecki, województwo dolnośląskie, Polska;51.1477;15.0079;10.0;0.197
+929;Zielona Góra ;Zielona Góra, województwo lubuskie, Polska;51.9384;15.5050;11.3;0.214
+930;Zielonka;Zielonka, powiat wołomiński, województwo mazowieckie, Polska;52.3108;21.1523;10.1;0.198
+931;Ziębice ;Ziębice, gmina Ziębice, powiat ząbkowicki, województwo dolnośląskie, 57-220, Polska;50.6008;17.0406;8.2;0.172
+932;Złocieniec ;Złocieniec, gmina Złocieniec, powiat drawski, województwo zachodniopomorskie, Polska;53.5311;16.0121;14.3;0.251
+933;Złoczew ;Złoczew, gmina Złoczew, powiat sieradzki, województwo łódzkie, 98-270, Polska;51.4175;18.6059;9.1;0.185
+934;Złotoryja ;Złotoryja, powiat złotoryjski, województwo dolnośląskie, 59-500, Polska;51.1235;15.9165;9.6;0.191
+935;Złotów ;Złotów, powiat złotowski, województwo wielkopolskie, 77-400, Polska;53.3632;17.0347;13.6;0.242
+936;Złoty Stok ;Złoty Stok, gmina Złoty Stok, powiat ząbkowicki, województwo dolnośląskie, 57-250, Polska;50.4451;16.8766;8.0;0.168
+937;Zwierzyniec ;Zwierzyniec, gmina Zwierzyniec, powiat zamojski, województwo lubelskie, Polska;50.6146;22.9706;6.4;0.146
+938;Zwoleń;Zwoleń, gmina Zwoleń, powiat zwoleński, województwo mazowieckie, 26-700, Polska;51.3565;21.5845;8.1;0.171
+939;Żabno ;Żabno, gmina Żabno, powiat tarnowski, województwo małopolskie, 33-240, Polska;50.1335;20.8859;6.1;0.141
+940;Żagań ;Żagań, powiat żagański, województwo lubuskie, 68-100, Polska;51.6148;15.3204;10.8;0.207
+941;Żarki ;Żarki, gmina Żarki, powiat myszkowski, województwo śląskie, 42-310, Polska;50.6260;19.3646;7.4;0.161
+942;Żarów ;Żarów, gmina Żarów, powiat świdnicki, województwo dolnośląskie, Polska;50.9438;16.4924;9.0;0.183
+943;Żary ;Żary, powiat żarski, województwo lubuskie, Polska;51.6385;15.1422;10.9;0.208
+944;Żelechów ;Żelechów, gmina Żelechów, powiat garwoliński, województwo mazowieckie, 08-430, Polska;51.8097;21.8955;8.9;0.182
+945;Żerków ;Żerków, gmina Żerków, powiat jarociński, województwo wielkopolskie, Polska;52.0687;17.5634;10.8;0.207
+946;Żmigród ;Żmigród, gmina Żmigród, powiat trzebnicki, województwo dolnośląskie, Polska;51.4717;16.9083;9.9;0.195
+947;Żnin ;Żnin, gmina Żnin, powiat żniński, województwo kujawsko-pomorskie, 88-400, Polska;52.8485;17.7219;12.3;0.226
+948;Żory ;Żory, województwo śląskie, Polska;50.0455;18.6943;6.6;0.149
+949;Żukowo ;Żukowo, gmina Żukowo, powiat kartuski, województwo pomorskie, Polska;54.3459;18.3650;15.1;0.261
+950;Żuromin ;Żuromin, gmina Żuromin, powiat żuromiński, województwo mazowieckie, 09-300, Polska;53.0672;19.9078;12.0;0.222
+951;Żychlin ;Żychlin, gmina Żychlin, powiat kutnowski, województwo łódzkie, Polska;52.2440;19.6261;10.4;0.202
+952;Żyrardów ;Żyrardów, powiat żyrardowski, województwo mazowieckie, Polska;52.0543;20.4435;9.8;0.194
+953;Żywiec ;Żywiec, powiat żywiecki, województwo śląskie, Polska;49.6890;19.2031;5.9;0.137
